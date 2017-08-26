@@ -35,7 +35,7 @@ Enviar o texto por email (anexo ou no corpo do email) para `jonatha@daguerre.com
 
 *Obs.: Os professores estão à disposição dos alunos para ajudar com o processo de criação e envio de email.*
 
----
+----
 
 #### 3 - CLI Parte 1
 

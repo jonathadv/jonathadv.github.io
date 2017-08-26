@@ -17,7 +17,7 @@ Por ser uma forma rápida de administrar o sistema, grande parte da ajuda que ex
 
 A baixo temos uma breve explicação sobre alguns dos comandos mais comuns em um sistema GNU/Linux.
 
----
+----
 
 ###Elementos da linha de comando:
 <pre>usuario@nome-do-computador: ~$ comando -p --parametro "argumento"</pre>
@@ -40,106 +40,106 @@ A baixo temos uma breve explicação sobre alguns dos comandos mais comuns em um
 
 `"argumento"` - Representa um argumento enviado pelo usuário para `comando`. Este argumento não é uma função de `comando`, mas alguma informação que `comando` precisa para executar sua função, como um caminho do sistema ou o nome de um arquivo.
 
----
+----
 
 ### Comandos básicos do sistema:
 <br/><br/>
 
 `man <comando>` - Mostra o manual de um comando.
 
----
+----
 
 `who` - Mostra os nomes dos usuários autenticados no sistema.
 
----
+----
 
 `whoami` - Mostra o nome do usuário autenticado na sessão atual do sistema.
 
----
+----
 
 `pwd` - Mostra o caminho do diretório atual.
 
----
+----
 `ls` - Lista arquivos e diretórios (pastas).
 
 * `ls -l` - Lista arquivos e diretórios com mais detalhes.
 
----
+----
 `cd "/caminho/do/diretório"` - Muda do diretório atual para a localização especificada.
 
----
+----
 `cp "arquivo1" "arquivo2"` - Copia arquivo ou diretório vazio **arquivo1** para **arquivo2**.
 
 * `cp -R "diretório1" "diretório2"` - Copia **diretório1** e todo seu conteúdo para **diretório2**.
 
----
+----
 `mv "arquivo1" "arquivo2"` - Move ou renomeia arquivo/diretório de **arquivo1** para **arquivo2**.
 
----
+----
 `mkdir "novo_diretório"` - Cria novo diretório com o nome **novo_diretório**
 
 * `mkdir -p "/caminho/do/novo_diretório"` - Cria **novo_diretório** e todo o caminho até ele, caso não exista.
 
----
+----
 `rmdir "diretório"` - Remove **diretório** se este estiver vazio.
 
----
+----
 
 `rm "arquivo"` - Remove **arquivo**.
 
 * `rm -r "diretório"` - Remove **diretório** e todos os arquivos dentro dele.
 
 
----
+----
 `clear` - Limpa a tela do terminal
 
----
+----
 `date` - Mostra a data atual como: *Sáb Mai 28 21:38:57 BRT 2016*
 
 
----
+----
 `cal` - Mostra um calendário com o mês atual
 
 * `cal <mes> <ano>`
 * `cal 2017` - Mostra o calendário completo do ano 2017
 * `cal 02 2017` - Mostra o calendário do mês de fevereiro do ano 2017
 
----
+----
 `df` - Mostra, em bytes, o uso do disco pelo sistema.
 
 * `df -h` - Mostra o uso do disco em Megabytes ou Gigabytes, conforme a quantidade.
 
 
----
+----
 `free` - Mostra, em bytes, o uso de memória pelo sistema.
 
 * `free -h` - Mostra o uso de memória em Kilobytes, Megabytes ou Gigabytes, conforme a quantidade.
 
----
+----
 `cat "arquivo1"` - Mostra o conteúdo de **arquivo1**.
 
----
+----
 
 `more "arquivo1"` - Mostra conteúdo de **arquivo1** progressivamente.
 
----
+----
 
 `less "arquivo1"` - Mostra conteúdo de **arquivo1** conforme usuário navega para cima ou para baixo.
 
----
+----
 `wc` - Conta quantidade:
 
 * `wc -c "arquivo1"` - A quantidade de bytes em **arquivo1**.
 * `wc -w "arquivo1"` - A quantidade de palavras em **arquivo1**.
 * `wc -l "arquivo1"` - A quantidade de linhas e **arquivo1**. 
 
----
+----
 
 `grep "palavra" "arquivo1"` - Filtra **arquivo1** por ocorrências de **"palavra"**.
 
 * `grep -n "palavra" "arquivo1"` - Filtra **arquivo1** por ocorrências de **"palavra"** mostrando o número das linhas de cada ocorrência.
 
----
+----
 `|` - (*Pipe*) - Comando que tranfere a saída de um comando para a entrada de outro comando. Permite encadear comandos para realizar tarefas mais complexas.
 
 Exemplos:
@@ -149,7 +149,7 @@ Exemplos:
 
 `fortune | cowsay` - Gera uma frase aleatória usando o **fortune** e mostra num balão de diálogo falado por uma vaca.
 
----
+----
 
 ###Artigos Externos
 * [Comandos Básicos para Iniciantes(vivaolinux.com.br)](https://www.vivaolinux.com.br/dica/Comandos-basicos-para-iniciantes)

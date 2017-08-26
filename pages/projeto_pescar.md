@@ -7,7 +7,7 @@ title: Projeto Pescar - GNU/Linux
 O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do [Projeto Pescar Unidade Procempa](http://www2.portoalegre.rs.gov.br/pescar). Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre.
 
 
----
+----
 
 ### Documentos de Aula
 <i class="file pdf outline icon"></i> [Software Livre e GNU/Linux (apresentação em PDF)](http://static.daguerre.com.br/Software_Livre_e_%20GNU_Linux.pdf)
@@ -22,7 +22,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 <i class="file text outline icon"></i> [Ubunchu: Um Mangá sobre Ubuntu](/#post/2)
 <i class="file video icon"></i> [Vídeos do TED](/#page/TED Vídeos)
 
----
+----
 
 ### Sites Relacionados
 * [Projeto GNU](http://www.gnu.org/philosophy/free-sw.pt-br.html)
@@ -40,7 +40,8 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 * [Debian](https://www.debian.org/index.pt.html)
 * [Linux Mint Brasil](http://www.linuxmint.com.br)
 
----
+----
+
 ### Eventos de Software Livre no Brasil
 <br/>
 [![](http://static.daguerre.com.br/banner_fisl.jpg)](http://fisl.softwarelivre.org)
@@ -51,7 +52,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 [![](http://static.daguerre.com.br/banner_flisol.jpg)](https://flisol.info/FLISOL2017/Brasil)
 
 
----
+----
 
 ### Vídeos
 

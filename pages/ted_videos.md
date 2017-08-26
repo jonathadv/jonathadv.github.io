@@ -20,19 +20,22 @@ Os vídeos estão legendados em português.
 
 <div style="max-width:640"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/pt-br/celeste_headlee_10_ways_to_have_a_better_conversation" width="640" height="360" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
----
+----
 **Você é um doador ou um aproveitador?**
 >Em todo ambiente de trabalho, existem três tipos básicos de pessoas: o doador, o aproveitador e o adaptável. O psicólogo organizacional Adam Grant detalha essas personalidades e nos oferece estratégias simples para promover uma cultura de generosidade e impedir que empregados egoístas mais recebam do que doem.
+
 <div style="max-width:640"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/pt-br/adam_grant_are_you_a_giver_or_a_taker" width="640" height="360" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
----
+----
 **Que realidade você está criando para si mesmo?**
 >Realidade não é algo que você percebe, é algo que você cria em sua mente. Isaac Lidsky aprendeu essa profunda lição em primeira mão, quando circunstâncias inesperadas da vida concederam reflexões valiosas. Nesta palestra introspectiva e pessoal, ele nos desafia a deixar de lado desculpas, suposições e medos, e a aceitar a enorme responsabilidade de sermos os criadores de nossa própria realidade.
+
 <div style="max-width:640"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/pt-br/isaac_lidsky_what_reality_are_you_creating_for_yourself" width="640" height="360" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
----
+----
 
 **Ensine coragem às meninas, não perfeição**
 >Estamos criando as meninas para serem perfeitas, e os meninos para serem corajosos, diz Reshma Saujani, fundadora do "Girls Who Code". Saujani assumiu a tarefa de educar as jovens para assumir riscos e aprender a programar, duas habilidades de que elas precisam para fazer a sociedade avançar. Para inovar verdadeiramente, não podemos deixar para trás metade da nossa população, diz ela. "Eu preciso que cada um de vocês diga às jovens que conhecem para sentirem-se bem com a imperfeição".
+
 <div style="max-width:640"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/pt-br/reshma_saujani_teach_girls_bravery_not_perfection" width="640" height="360" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
