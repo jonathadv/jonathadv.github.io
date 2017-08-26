@@ -2096,6 +2096,12 @@ body:not(.post-template) .post-title {
     overflow: hidden;
 }
 
+.loader {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff

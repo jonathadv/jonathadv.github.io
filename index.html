@@ -53,7 +53,7 @@
     <a href="#" class="nav-close">
         <span class="hidden">Close</span>
     </a>
-    <nav class="cms_nav" onClick="closeNav()"></nav> <!--CMS.js-->
+    <nav class="cms_nav" onClick="closeNav()"><div class="loader"><img src="/img/loader_b.gif"></div></nav> <!--CMS.js-->
 </div>
 <span class="nav-cover"></span>
     
@@ -91,7 +91,7 @@
 <!--CMS.js BEGIN-->
 <!-- Main View -->
   <div class="container content">
-    <div class="cms_main"></div>
+    <div class="cms_main"><div class="loader"><img src="/img/loader.gif"></div></a></div>
   </div>
 
   <!-- Page View -->
@@ -99,7 +99,7 @@
   <script id="page-template" type="x-template">
     <article class="post page">
       <h1 class="page-title"></h1>
-      <div class="page-content"></div>
+      <div class="page-content"><div class="loader"><img src="/img/loader.gif"></div></div>
     </article>
   </script>
 
@@ -108,7 +108,7 @@
   <script id="post-template" type="x-template">
     <article class="post">
       <h1 class="post-title"></h1>
-      <time class="post-date"></time>
+      <time class="post-date"><div class="loader"><img src="/img/loader.gif"></div></time>
       <div class="post-content"></div>
     </article>
   </script>
