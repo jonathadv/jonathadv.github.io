@@ -20,6 +20,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ### Extras
 <i class="file text outline icon"></i> [Ubunchu: Um Mangá sobre Ubuntu](/#post/2)
+
 <i class="file video icon"></i> [Vídeos do TED](/#page/TED Vídeos)
 
 ----
