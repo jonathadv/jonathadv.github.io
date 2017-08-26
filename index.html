@@ -47,13 +47,13 @@
 
    
 <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
-<body class="home-template nav-closed">
+<body id='body' class="home-template nav-closed">
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
     <a href="#" class="nav-close">
         <span class="hidden">Close</span>
     </a>
-    <nav class="cms_nav"></nav> <!--CMS.js-->
+    <nav class="cms_nav" onClick="closeNav()"></nav> <!--CMS.js-->
 </div>
 <span class="nav-cover"></span>
     
@@ -138,6 +138,11 @@
         page: document.location.pathname
     });
 
+    
+    function closeNav(){
+        document.getElementById("body").classList.add('nav-closed');
+        document.getElementById("body").classList.remove('nav-opened');
+    }
 </script>
 
     <script type="text/javascript" src="/js/jquery.js"></script>
