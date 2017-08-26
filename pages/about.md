@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-[português](/#page/Sobre) | **[english](#)**
+[português](/#page/Sobre) | **[english](/#page/About)**
 
 <div style="padding:0.6em 0">
 <img src="/img/jdv.jpg" alt="photo" style="float:left;left:0; margin:0 0 0px 0px;padding:0;transform:none" width="130" height="130">
