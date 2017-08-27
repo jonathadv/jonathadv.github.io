@@ -107,9 +107,11 @@ var CMS = {
   },
 
   renderPage: function (title) {
+    var found = false;
     CMS.pages.sort(function (a, b) { return CMS.settings.sortDateOrder ? b.date - a.date : a.date - b.date; });
     CMS.pages.forEach(function (page) {
       if (page.title == title || encodeURI(page.title) == title) {
+        found = true;
 
         var tpl = $(document.getElementById('page-template')).html(),
           $tpl = $(tpl);
@@ -120,13 +122,17 @@ var CMS = {
         CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
       }
     });
+    if(!found){
+        document.location='/#page/404'
+    }
     CMS.renderFooter();
   },
 
   renderPost: function (id) {
+    var found = false;
     CMS.posts.forEach(function (post) {
       if (post.id == id) {
-
+        found = true;
         var tpl = $(document.getElementById('post-template')).html(),
           $tpl = $(tpl);
 
@@ -137,6 +143,9 @@ var CMS = {
         CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
       }
     });
+    if(!found){
+        document.location='/#page/404'
+    }
     CMS.renderFooter();
   },
 
