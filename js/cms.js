@@ -71,6 +71,7 @@ var CMS = {
   },
 
   render: function (url) {
+    CMS.renderDefaultHeader()
     CMS.settings.mainContainer.html('').fadeOut(CMS.settings.fadeSpeed);
     CMS.settings.footerContainer.hide();
 
@@ -120,11 +121,16 @@ var CMS = {
         $tpl.find('.page-content').html(page.contentData);
 
         CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
+        if(page.banner){
+          CMS.renderBanner(page.banner);
+        }
       }
     });
+    
     if(!found){
-        document.location='/404'
+      CMS.render404();
     }
+    
     CMS.renderFooter();
   },
 
@@ -139,20 +145,30 @@ var CMS = {
         $tpl.find('.post-title').html(post.title);
         $tpl.find('.post-date').html(post.date.getUTCDate() + '/' + (post.date.getUTCMonth() + 1) + '/' +  post.date.getUTCFullYear());
         $tpl.find('.post-content').html(post.contentData);
-        CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
-        
+        CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);       
         if(post.banner){
-            var imgStyle = 'background-image: url(/img/banner/' + post.banner + ')'            
-            document.getElementById('post-header-element').style = imgStyle;
-            document.getElementById('site-header').classList.add('hidden');
-            document.getElementById('post-header').classList.remove('hidden');
+          CMS.renderBanner(post.banner);
         }
       }
     });
+    
     if(!found){
-        document.location='/404'
+      CMS.render404();
     }
+    
     CMS.renderFooter();
+  },
+  
+  renderBanner: function (img){
+      var imgStyle = 'background-image: url(/img/banner/' + img + ')'            
+      document.getElementById('post-header-element').style = imgStyle;
+      document.getElementById('site-header').classList.add('hidden');
+      document.getElementById('post-header').classList.remove('hidden');
+  },
+  
+  renderDefaultHeader: function (img){      
+      document.getElementById('site-header').classList.remove('hidden');
+      document.getElementById('post-header').classList.add('hidden');
   },
 
   renderPosts: function () {
@@ -189,6 +205,10 @@ var CMS = {
     }, 800);
   },
 
+  render404: function (msg) {
+    document.location='/404'
+  },
+  
   renderError: function (msg) {
     var tpl = $(document.getElementById('error-template')).html(),
       $tpl = $(tpl);
