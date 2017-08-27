@@ -54,3 +54,10 @@
 
     };
 })(jQuery);
+
+// Function added by jonathadv
+// Fixes misbehavior when clicking in "/#" links in navbar.
+function closeNav(){
+  document.getElementById("body").classList.add('nav-closed');
+  document.getElementById("body").classList.remove('nav-opened');
+}
