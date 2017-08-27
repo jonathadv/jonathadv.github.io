@@ -59,25 +59,35 @@
 <span class="nav-cover"></span>
     
 <div class="site-wrapper">
-    
-<header class="main-header no-cover">
-    <nav class="main-nav overlay clearfix">
-        
-            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Jonatha Daguerre Vasconcelos</h1>
-            <h2 class="page-description">Hacker Culture | Education | Coding</h2>
-            <div class="icons">
-                <a href="mailto:jonatha@daguerre.com.br" title="Email me" target="_blank"><i class="huge mail square icon white"></i></a>
-                <a href="https://www.linkedin.com/in/jonathadv" title="My LinkedIn Profile" target="_blank"><i class="huge linkedin square icon white"></i></a>
-                <a href="https://github.com/jonathadv" title="My GitHub profile" target="_blank"><i class="huge github square icon white"></i></a>
+<div id="post-header" class="hidden">
+    <header id="post-header-element" type="hidden" class="main-header post-head" style="">
+        <nav class="main-nav overlay clearfix">        
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        </nav>
+        <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+    </header>
+</div>
+
+<div id="site-header" class="">
+    <header id="site-header" class="main-header no-cover">
+        <nav class="main-nav overlay clearfix">
+            
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        </nav>
+        <div class="vertical">
+            <div class="main-header-content inner">
+                <h1 class="page-title">Jonatha Daguerre Vasconcelos</h1>
+                <h2 class="page-description">Hacker Culture | Education | Coding</h2>
+                <div class="icons">
+                    <a href="mailto:jonatha@daguerre.com.br" title="Email me" target="_blank"><i class="huge mail square icon white"></i></a>
+                    <a href="https://www.linkedin.com/in/jonathadv" title="My LinkedIn Profile" target="_blank"><i class="huge linkedin square icon white"></i></a>
+                    <a href="https://github.com/jonathadv" title="My GitHub profile" target="_blank"><i class="huge github square icon white"></i></a>
+                </div>
             </div>
         </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
-</header>
+        <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+    </header>
+</div>
 
 
 <div class="hacker">
@@ -144,6 +154,7 @@
         document.getElementById("body").classList.add('nav-closed');
         document.getElementById("body").classList.remove('nav-opened');
     }
+    
 </script>
 
     <script type="text/javascript" src="/js/jquery.js"></script>

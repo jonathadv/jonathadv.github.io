@@ -139,8 +139,14 @@ var CMS = {
         $tpl.find('.post-title').html(post.title);
         $tpl.find('.post-date').html(post.date.getUTCDate() + '/' + (post.date.getUTCMonth() + 1) + '/' +  post.date.getUTCFullYear());
         $tpl.find('.post-content').html(post.contentData);
-
         CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
+        
+        if(post.banner){
+            var imgStyle = 'background-image: url(/img/banner/' + post.banner + ')'            
+            document.getElementById('post-header-element').style = imgStyle;
+            document.getElementById('site-header').classList.add('hidden');
+            document.getElementById('post-header').classList.remove('hidden');
+        }
       }
     });
     if(!found){
