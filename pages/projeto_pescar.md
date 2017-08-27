@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projeto Pescar - GNU/Linux
+banner: pescar-banner.jpg
 ---
 
 ### Bem vindo aluno!  <i class="big linux icon"></i>
