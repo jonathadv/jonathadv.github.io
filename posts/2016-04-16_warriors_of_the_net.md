@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Warriors of the Net
+banner: warriors_of_the_net-banner.jpg
 ---
 
 [Português]
