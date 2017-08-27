@@ -123,7 +123,7 @@ var CMS = {
       }
     });
     if(!found){
-        document.location='/#page/404'
+        document.location='/404'
     }
     CMS.renderFooter();
   },
@@ -144,7 +144,7 @@ var CMS = {
       }
     });
     if(!found){
-        document.location='/#page/404'
+        document.location='/404'
     }
     CMS.renderFooter();
   },
