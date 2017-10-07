@@ -20,7 +20,6 @@ $(function() {
       { name: 'Como se Tornar um Hacker', href: '/hacker-howto/' },
       { name: 'Glider: Um Emblema Hacker Universal', href: '/hacker-emblem/' },
       { name: 'Projeto Pescar - GNU/Linux' },
-      { name: 'React Sokoban', href: '/sokoban/' },
       { name: 'About'},      
     ],
 
