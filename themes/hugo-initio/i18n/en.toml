@@ -1,0 +1,17 @@
+[welcome]
+other = "Hi! My name is Jonatha and this is my web site. It's currently available in English and Portuguese. Some content is available in both languages. Go to my blog to see the latest publications"
+
+[lang_link]
+other = "Change the language to"
+
+[lang]
+other = "Language"
+
+[site_description]
+other = "Hacker Culture | Education | Coding"
+
+[contact]
+other = "Contact"
+
+[follow]
+other = "Follow me"
