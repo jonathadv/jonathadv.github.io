@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonatha Daguerre Vasconcelos</title>
+    <link>http://jonatha.daguerre.com.br/</link>
+    <description>Recent content on Jonatha Daguerre Vasconcelos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Dec 2017 22:58:13 -0200</lastBuildDate>
+    
+	<atom:link href="http://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://jonatha.daguerre.com.br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jonatha.daguerre.com.br/about/</guid>
+      <description>Jonatha holds a Bachelor&amp;rsquo;s degree in Information Systems from PUCRS and is a Java 8 Oracle Certified Associate. Fan of ShellScript, Python and RegEx, his main interests include automation and application architecture.
+ My main logo More about me  Developer Acoustic Guitar Books Kenjutsu  @font-face { font-family: &amp;lsquo;Icons&amp;rsquo;; src: url(&amp;ldquo;/fonts/fontawesome-webfont-lattes/fontawesome-webfont.eot&amp;rdquo;); src: url(&amp;ldquo;/fonts/fontawesome-webfont-lattes/fontawesome-webfont.eot?#iefix&amp;rdquo;) format(&amp;lsquo;./embedded-opentype&amp;rsquo;), url(&amp;ldquo;/fonts/fontawesome-webfont-lattes/fontawesome-webfont.woff2&amp;rdquo;) format(&amp;lsquo;woff2&amp;rsquo;), url(&amp;ldquo;/fonts/fontawesome-webfont-lattes/fontawesome-webfont.woff&amp;rdquo;) format(&amp;lsquo;woff&amp;rsquo;), url(&amp;ldquo;/fonts/fontawesome-webfont-lattes/fontawesome-webfont.ttf&amp;rdquo;) format(&amp;lsquo;truetype&amp;rsquo;), url(&amp;ldquo;/fonts/fontawesome-webfont-lattes/fontawesome-webfont.svg#icons&amp;rdquo;) format(&amp;lsquo;svg&amp;rsquo;); font-style: normal; font-weight: normal; font-variant: normal; text-decoration: inherit; text-transform: none; } .</description>
+    </item>
+    
+    <item>
+      <title>Exercícios de Aula</title>
+      <link>http://jonatha.daguerre.com.br/pescar_exercicios/</link>
+      <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
+      
+      <guid>http://jonatha.daguerre.com.br/pescar_exercicios/</guid>
+      <description>Voltar para Home Pescar
+1 - Uso do sistema Data de entrega: Terça-feira, 11 de julho de 2017
+Realize cada uma das tarefas a baixo no seu computador:
+ Criar uma pasta com o nome &amp;ldquo;GNU-Linux&amp;rdquo; nos documentos. Adicionar a pasta &amp;ldquo;GNU-Linux&amp;rdquo; nos marcadores do gerenciador de arquivos. Buscar no Google uma imagem usando as palavras &amp;ldquo;tux wallpaper&amp;rdquo; e salvar na pasta &amp;ldquo;GNU-Linux&amp;rdquo;. Usar essa imagem como papel de parede da área de trabalho.</description>
+    </item>
+    
+    <item>
+      <title>Linha de Comando</title>
+      <link>http://jonatha.daguerre.com.br/pescar_cli/</link>
+      <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
+      
+      <guid>http://jonatha.daguerre.com.br/pescar_cli/</guid>
+      <description>Voltar para Home Pescar
+Como usuários de computadores, estamos acostumados à interagir com programas gráficos como processadores de texto, editores de imagem, jogos, e outros. Embora essas ferramentas gráficas sejam o que utilizamos na maior parte do tempo como usuários domésticos de um computador, elas não são tudo o que um sistema operacional pode oferecer. Existe uma infinidade de programas que são utilizados apenas através de comandos de texto inseridos pelo usuário.</description>
+    </item>
+    
+    <item>
+      <title>Projeto Pescar - GNU/Linux</title>
+      <link>http://jonatha.daguerre.com.br/pescar/</link>
+      <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
+      
+      <guid>http://jonatha.daguerre.com.br/pescar/</guid>
+      <description>Bem vindo aluno!  O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do Projeto Pescar Unidade Procempa. Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre.
+Documentos de Aula  Software Livre e GNU/Linux (apresentação em PDF)
+ Linux Mint 18 - Guia Oficial do Usuário</description>
+    </item>
+    
+    <item>
+      <title>TED Vídeos</title>
+      <link>http://jonatha.daguerre.com.br/ted_videos/</link>
+      <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
+      
+      <guid>http://jonatha.daguerre.com.br/ted_videos/</guid>
+      <description>Voltar para Home Pescar
+Página dedicada a compartilhar vídeos do TED com temas relacionados ao desenvolvimento pessoal e profissional. Os vídeos estão legendados em português.
+Por que a melhor contratação não precisa ter o currículo perfeito
+ Quando tem de escolher entre um candidato a emprego com um currículo perfeito e outro que lutou e venceu com dificuldade, a executiva de recursos humanos Regina Hartley sempre dá uma chance ao &amp;ldquo;comigo ninguém pode&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Warriors of the Net</title>
+      <link>http://jonatha.daguerre.com.br/posts/2016-04-16_warriors_of_the_net/</link>
+      <pubDate>Sat, 16 Apr 2016 20:12:21 -0200</pubDate>
+      
+      <guid>http://jonatha.daguerre.com.br/posts/2016-04-16_warriors_of_the_net/</guid>
+      <description>Did you ever wonder how the Internet works? How does a router look like? What color does a IP packet have and how does it travel through a firewall? All the answers and many more can be found in the Warriors of the net movie. The movie is available in many different languages and it is the perfect tool for introducing Internet to novice users
+ Oficial web site: http://www.</description>
+    </item>
+    
+  </channel>
+</rss>
