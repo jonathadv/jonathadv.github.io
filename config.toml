@@ -51,7 +51,7 @@ publishDir = "docs"
     name = "Como se Tornar um Hacker"
     url = "/hacker-howto"
     weight = 4
-[[Languages.pt.main]]
+[[Languages.pt.menu.main]]
     name = "Glider: Um Emblema Hacker Universal"
     url = "/hacker-emblem"
     weight = 5
