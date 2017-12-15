@@ -16,7 +16,7 @@ publishDir = "docs"
     email = "jonatha@daguere.com.br"
     year = 2017
     background = ""
-    favicon = "/img/favicon.ico"
+    favicon = "/images/favicon.ico"
     DateForm = "2 January 2006"
 
     showSubheader = true

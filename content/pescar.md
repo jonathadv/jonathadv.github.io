@@ -15,14 +15,14 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 <i class="file pdf outline icon"></i> [Linux Mint 18 - Guia Oficial do Usuário](https://www.linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
 
-<i class="file text outline icon"></i> [Linha de Comando](/#page/Linha de Comando)
+<i class="file text outline icon"></i> [Linha de Comando](/pescar_cli)
 
-<i class="file text outline icon"></i> [Exercícios de aula](/#page/Exercícios de Aula)
+<i class="file text outline icon"></i> [Exercícios de aula](pescar_exercicios)
 
 ### Extras
-<i class="file text outline icon"></i> [Ubunchu: Um Mangá sobre Ubuntu](/#post/2)
+<i class="file text outline icon"></i> [Ubunchu: Um Mangá sobre Ubuntu](/pt/posts/2016-04-17_ubunchu/)
 
-<i class="file video icon"></i> [Vídeos do TED](/#page/TED Vídeos)
+<i class="file video icon"></i> [Vídeos do TED](/ted_videos/)
 
 ----
 
@@ -68,9 +68,11 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 **InProprietário - O Mundo do Software Livre**
 
 Este documentário explica o que é, como funciona o ecossistema do software livre e sua origem histórica.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKDn9quw5sc" frameborder="0" allowfullscreen></iframe>
 
 **Revolution OS - Documentário (Legendado)**
 
  Documentário do ano de 2001 que trata da história do GNU, Linux, open source, e do movimento software livre.
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/plMxWpXhqig" frameborder="0" allowfullscreen></iframe>
