@@ -5,39 +5,39 @@
 	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
-        
+
         <meta name="referrer" content="origin">
         <meta property="og:site_name" content="Jonatha Daguerre Vasconcelos">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Jonatha Daguerre Vasconcelos">
-        <meta property="og:description" content={{i18n "site_description"}}>
-        <meta property="og:url" content="http://jonatha.daguerre.com.br/">
-        <meta property="og:image" content="http://jonatha.daguerre.com.br/images/jdv.jpg">
-        <meta property="og:image" content="http://jonatha.daguerre.com.br/images/banner/glider-banner.jpg">
+        <meta property="og:description" content={{ .Description }}>
+        <meta property="og:url" content="{{ .Site.BaseURL }}">
+        <meta property="og:image" content="{{ .Site.BaseURL }}images/jdv.jpg">
+        <meta property="og:image" content="{{ .Site.BaseURL }}images/banner/glider-banner.jpg">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:title" content="Jonatha Daguerre Vasconcelos">
         <meta name="twitter:description" content={{i18n "site_description"}}>
         <meta name="twitter:url" content="http://jonatha.daguerre.com.br/">
-        <meta name="twitter:image:src" content="http://jonatha.daguerre.com.br/images/jdv.jpg">    
+        <meta name="twitter:image:src" content="{{ .Site.BaseURL }}images/jdv.jpg">
         <script type="application/ld+json">
         {
             "@context": "http://schema.org",
             "@type": "Website",
             "publisher": "Jonatha Daguerre Vasconcelos",
-            "url": "http://jonatha.daguerre.com.br/",
-            "image": "http://jonatha.daguerre.com.br/images/jdv.jpg",
+            "url": "{{ .Site.BaseURL }}",
+            "image": "{{ .Site.BaseURL }}images/jdv.jpg",
             "description": {{i18n "site_description"}}
         }
-        </script> 
+        </script>
 
 	<title>{{ .Title }}</title>
 
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 
 	<!-- Bootstrap -->
-	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}css/bootstrap.no-icons.min.css" rel="stylesheet">
 	<!-- Icons -->
-	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet">
 	<!-- Fonts -->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
@@ -50,7 +50,7 @@
     {{ else }}
         <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=inline-share-buttons"></script>
     {{ end }}
-    
+
 
 </head>
 <body class="home">

@@ -2,27 +2,28 @@
 title: "Projeto Pescar - GNU/Linux"
 date: 2017-12-14T22:58:13-02:00
 draft: false
+description: "O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do Projeto Pescar Unidade Procempa. Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre."
 ---
 
-### Bem vindo aluno!  <i class="big linux icon"></i>
+### Bem vindo aluno!  <i class="fa fa-linux "></i>
 O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do [Projeto Pescar Unidade Procempa](http://www2.portoalegre.rs.gov.br/pescar). Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre.
 
 
 ----
 
 ### Documentos de Aula
-<i class="file pdf outline icon"></i> [Software Livre e GNU/Linux (apresentação em PDF)](http://static.daguerre.com.br/Software_Livre_e_%20GNU_Linux.pdf)
+<i class="fa fa-file-pdf-o"></i> [Software Livre e GNU/Linux (apresentação em PDF)](http://static.daguerre.com.br/Software_Livre_e_%20GNU_Linux.pdf)
 
-<i class="file pdf outline icon"></i> [Linux Mint 18 - Guia Oficial do Usuário](https://www.linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
+<i class="fa fa-file-pdf-o"></i> [Linux Mint 18 - Guia Oficial do Usuário](https://www.linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
 
-<i class="file text outline icon"></i> [Linha de Comando](/pescar_cli)
+<i class="fa fa-file-text-o"></i> [Linha de Comando](/pescar_cli)
 
-<i class="file text outline icon"></i> [Exercícios de aula](pescar_exercicios)
+<i class="fa fa-file-text-o"></i> [Exercícios de aula](pescar_exercicios)
 
 ### Extras
-<i class="file text outline icon"></i> [Ubunchu: Um Mangá sobre Ubuntu](/pt/posts/2016-04-17_ubunchu/)
+<i class="fa fa-file-text-o"></i> [Ubunchu: Um Mangá sobre Ubuntu](/pt/posts/2016-04-17_ubunchu/)
 
-<i class="file video icon"></i> [Vídeos do TED](/ted_videos/)
+<i class="fa fa-file-video-o"></i> [Vídeos do TED](/ted_videos/)
 
 ----
 
@@ -56,22 +57,26 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ----
 
-### Vídeos
+## Vídeos
 
-**História do Linux em 5 minutos**
+#### História do Linux em 5 minutos
 
 >Apresenta o surgimento e avanço do Kernel Linux até os dias de hoje.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqHsiFeQK30" frameborder="0" allowfullscreen></iframe>
 
 
-**InProprietário - O Mundo do Software Livre**
+---
+
+#### InProprietário - O Mundo do Software Livre
 
 Este documentário explica o que é, como funciona o ecossistema do software livre e sua origem histórica.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKDn9quw5sc" frameborder="0" allowfullscreen></iframe>
 
-**Revolution OS - Documentário (Legendado)**
+---
+
+#### Revolution OS - Documentário (Legendado)
 
  Documentário do ano de 2001 que trata da história do GNU, Linux, open source, e do movimento software livre.
 
