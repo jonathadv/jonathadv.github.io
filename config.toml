@@ -17,18 +17,21 @@ publishDir = "docs"
     year = 2017
     background = ""
     favicon = "/images/favicon.ico"
-    DateForm = "2 January 2006"
+    DateForm = "2/01/2006"
 
-    showSubheader = true
+    showSubheader = false
     showServices = false
     showRecentWorks = false
     showDownload = false
     showClients = false
+    footerEnableFormWidget = false
 
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = false
-    footerEnableFormWidget = false
+    
+    
+    showPosts = true
 
 [[menu.main]]
     name = "home"

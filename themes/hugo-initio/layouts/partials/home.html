@@ -2,6 +2,10 @@
 
 	<div class="container">
         
+        {{ if .Site.Params.showPosts }}
+            {{ partial "postsoverview.html" . }}
+        {{ end }}
+        
         {{ if .Site.Params.showSubheader }}
             {{ partial "subheader.html" . }}
         {{ end }}

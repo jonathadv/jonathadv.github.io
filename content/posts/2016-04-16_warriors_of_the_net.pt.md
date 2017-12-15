@@ -1,5 +1,5 @@
 ---
-title: "Warriors of the Net"
+title: "Vídeo Warriors of the Net"
 date: 2016-04-16T20:12:21-02:00
 draft: false
 ---
