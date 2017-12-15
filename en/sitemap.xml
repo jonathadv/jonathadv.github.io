@@ -32,11 +32,6 @@
   </url>
   
   <url>
-    <loc>http://jonatha.daguerre.com.br/ted_videos/</loc>
-    <lastmod>2017-12-14T22:58:13-02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jonatha.daguerre.com.br/posts/2016-04-16_warriors_of_the_net/</loc>
     <lastmod>2016-04-16T20:12:21-02:00</lastmod>
     <xhtml:link
@@ -96,6 +91,10 @@
                 hreflang="en"
                 href="http://jonatha.daguerre.com.br/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://jonatha.daguerre.com.br/ted_videos/</loc>
   </url>
   
   <url>
