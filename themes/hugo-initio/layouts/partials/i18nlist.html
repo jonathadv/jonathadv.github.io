@@ -1,5 +1,0 @@
-{{ if .IsTranslated }}
-    {{ range .Translations }}
-        <spam class="tagline"><a href="{{ .Permalink }}" title={{i18n "lang_link"}}>{{i18n "lang_link"}} <strong>{{ .Lang }}</strong></a><spam>
-    {{ end}}
-{{ end }}
