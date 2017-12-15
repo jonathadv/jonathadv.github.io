@@ -2,6 +2,7 @@
 title: "Linha de Comando"
 date: 2017-12-14T22:58:13-02:00
 draft: false
+description: "Além de possuírem a interface gráfica (GUI), proporcionando ao usuário muitas aplicações gráficas, os sistemas baseados em GNU/Linux (e outros Unix-like) são conhecidos por serem extremamente poderosos em relação às aplicações de linha de comando. É possível inclusive, fazer praticamente qualquer tarefa no sistema utilizando apenas a interface de linha de comando."
 ---
 
 

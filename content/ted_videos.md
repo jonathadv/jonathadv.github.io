@@ -1,7 +1,7 @@
 ---
 title: "TED Vídeos"
-date: 2017-12-14T22:58:13-02:00
 draft: false
+description: "Página dedicada a compartilhar vídeos do TED com temas relacionados ao desenvolvimento pessoal e profissional. Os vídeos estão legendados em português."
 ---
 
 <a href="/pescar" title="Voltar para Home Pescar"><i class="huge arrow circle left icon"></i><b>Voltar para Home Pescar</b></a>
