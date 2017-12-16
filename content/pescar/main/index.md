@@ -2,6 +2,7 @@
 title: "Projeto Pescar - GNU/Linux"
 date: 2017-12-14T22:58:13-02:00
 draft: false
+banner: "pescar-banner.jpg"
 description: "O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do Projeto Pescar Unidade Procempa. Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre."
 ---
 
