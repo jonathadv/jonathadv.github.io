@@ -63,8 +63,9 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 >Apresenta o surgimento e avanço do Kernel Linux até os dias de hoje.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oqHsiFeQK30" frameborder="0" allowfullscreen></iframe>
-
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oqHsiFeQK30" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -72,12 +73,15 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 Este documentário explica o que é, como funciona o ecossistema do software livre e sua origem histórica.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MKDn9quw5sc" frameborder="0" allowfullscreen></iframe>
-
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MKDn9quw5sc" frameborder="0" allowfullscreen></iframe>
+</div>
 ---
 
 #### Revolution OS - Documentário (Legendado)
 
  Documentário do ano de 2001 que trata da história do GNU, Linux, open source, e do movimento software livre.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/plMxWpXhqig" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/plMxWpXhqig" frameborder="0" allowfullscreen></iframe>
+</div>

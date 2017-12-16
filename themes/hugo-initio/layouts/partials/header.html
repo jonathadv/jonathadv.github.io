@@ -11,34 +11,31 @@
         <meta property="og:type" content="website">
         <meta property="og:title" content="Jonatha Daguerre Vasconcelos">
         <meta property="og:url" content="{{ .Permalink }}">
-                        
         {{ if .Description }}
-        <meta property="og:description" content={{ .Description }}>
+        <meta property="og:description" content="{{ .Description }}">
         {{ else }}
-        <meta property="og:description" content={{ i18n "site_description" }}>
+        <meta property="og:description" content="{{ i18n "site_description" }}">
         {{ end }}
-        
-        
         {{ if .Params.banner }}
         <meta property="og:image" content="{{ .Site.BaseURL }}images/banner/{{ .Params.banner }}">
         {{ else }}
-                <meta property="og:image" content="{{ .Site.BaseURL }}images/jdv.jpg">
-        <meta property="og:image" content="{{ .Site.BaseURL }}images/banner/glider-banner.jpg">
-        {{ end }}
-        
         <meta property="og:image" content="{{ .Site.BaseURL }}images/jdv.jpg">
         <meta property="og:image" content="{{ .Site.BaseURL }}images/banner/glider-banner.jpg">
-        
+        {{ end }}
         <meta name="twitter:card" content="summary">
         <meta name="twitter:title" content="Jonatha Daguerre Vasconcelos">
-        <meta name="twitter:description" content={{i18n "site_description"}}>
+        {{ if .Description }}
+        <meta name="twitter:description" content="{{ .Description }}">
+        {{ else }}
+        <meta name="twitter:description" content="{{i18n "site_description"}}">
+        {{ end }}
         <meta name="twitter:url" content="http://jonatha.daguerre.com.br/">
-        
+
         {{ if .Params.banner }}
         <meta name="twitter:image:src" content="{{ .Site.BaseURL }}images/banner/{{ .Params.banner }}">
         {{ else }}
         <meta name="twitter:image:src" content="{{ .Site.BaseURL }}images/jdv.jpg">
-        {{ end }}        
+        {{ end }}
         <script type="application/ld+json">
         {
             "@context": "http://schema.org",
@@ -49,8 +46,12 @@
             "image": "{{ .Site.BaseURL }}images/banner/{{ .Params.banner }}",
             {{ else }}
             "image": "{{ .Site.BaseURL }}images/jdv.jpg",
-            {{ end }}        
-            "description": {{i18n "site_description"}}
+            {{ end }}
+            {{ if .Description }}
+            "description": "{{ .Description }}"
+            {{ else }}
+            "description": "{{i18n "site_description"}}"
+            {{ end }}
         }
         </script>
 

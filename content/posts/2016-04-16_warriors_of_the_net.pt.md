@@ -11,4 +11,6 @@ description: "Você já se perguntou como a internet funciona? Como é um rotead
 Site oficial: http://www.warriorsofthe.net
 
 ### Vídeo em Português
-<iframe width="420" height="315" src="https://www.youtube.com/embed/e6SU42eP7e4" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/e6SU42eP7e4" frameborder="0" allowfullscreen></iframe>
+</div>

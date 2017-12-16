@@ -9,9 +9,11 @@
 
 				<article class="post">
 					<header class="entry-header">
-					        {{ if .Params.banner }}
-					        <img src="{{ .Site.BaseURL }}images/banner/{{ .Params.banner }}"/>                                                
-{{ end }}					
+                                                {{ if .Params.banner }}
+                                                <div>
+                                                    <img src="{{ .Site.BaseURL }}images/banner/{{ .Params.banner }}"/>
+                                                <div><br/>
+                                                {{ end }}
 						<div class="entry-meta">
 							<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
 						</div>
