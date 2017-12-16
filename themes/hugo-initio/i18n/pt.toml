@@ -2,7 +2,7 @@
 other = "Olá! Meu nome é Jonatha e este é o meu site. Atualmente está disponível em inglês e português. Alguns conteúdos estão disponíveis em ambos os idiomas. Vá para ao meu blog para ver as últimas publicações."
 
 [lang_link]
-other = "Trocar o idioma para"
+other = "Mudar idioma para"
 
 [lang]
 other = "Idioma"
@@ -18,3 +18,6 @@ other = "Siga-me"
 
 [latest_posts]
 other = "Últimos Posts em"
+
+[reade_more]
+other = "Ler mais"
