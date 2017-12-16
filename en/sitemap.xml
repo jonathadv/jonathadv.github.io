@@ -17,18 +17,33 @@
   </url>
   
   <url>
-    <loc>http://jonatha.daguerre.com.br/pescar_exercicios/</loc>
+    <loc>http://jonatha.daguerre.com.br/pescar-exercicios/</loc>
     <lastmod>2017-12-14T22:58:13-02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jonatha.daguerre.com.br/pescar_cli/</loc>
+    <loc>http://jonatha.daguerre.com.br/pescar-cli/</loc>
     <lastmod>2017-12-14T22:58:13-02:00</lastmod>
   </url>
   
   <url>
     <loc>http://jonatha.daguerre.com.br/pescar/</loc>
     <lastmod>2017-12-14T22:58:13-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jonatha.daguerre.com.br/posts/2016-04-17_ubunchu/</loc>
+    <lastmod>2016-04-17T20:12:21-02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://jonatha.daguerre.com.br/pt/posts/2016-04-17_ubunchu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jonatha.daguerre.com.br/posts/2016-04-17_ubunchu/"
+                />
   </url>
   
   <url>
@@ -79,7 +94,7 @@
   
   <url>
     <loc>http://jonatha.daguerre.com.br/posts/</loc>
-    <lastmod>2016-04-16T20:12:21-02:00</lastmod>
+    <lastmod>2016-04-17T20:12:21-02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -94,7 +109,7 @@
   </url>
   
   <url>
-    <loc>http://jonatha.daguerre.com.br/ted_videos/</loc>
+    <loc>http://jonatha.daguerre.com.br/ted-videos/</loc>
   </url>
   
   <url>
