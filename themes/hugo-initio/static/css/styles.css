@@ -827,3 +827,39 @@ footer.entry-meta .meta-in {
       color: #004488;
    }
 }
+
+
+/*********************************************************************
+
+
+                                JDV CSS
+
+
+**********************************************************************/
+.color-nero {
+    color: #232323   
+}
+ 
+@font-face {
+    font-family: 'Lattes';
+    src: url("../fonts-lattes/fontawesome-webfont-lattes.eot");
+    src: url("../fonts-lattes/fontawesome-webfont-lattes.eot?#iefix") format('embedded-opentype'), url("../fonts-lattes/fontawesome-webfont-lattes.woff2") format('woff2'), url("../fonts-lattes/fontawesome-webfont-lates.woff") format('woff'), url("../fonts-lattes/fontawesome-webfont-lattes.ttf") format('truetype'), url("../fonts-lattes/fontawesome-webfont-lattes.svg#icons") format('svg');
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-decoration: inherit;
+    text-transform: none;
+}
+
+.fa-lattes {
+  display: inline-block;
+  font: normal normal normal 14px/1 Lattes;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lattes-icon:before { 
+    content:"\f2b5"; 
+}
