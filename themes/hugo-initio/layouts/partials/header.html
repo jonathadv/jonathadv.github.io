@@ -9,7 +9,7 @@
         <meta name="referrer" content="origin">
         <meta property="og:site_name" content="Jonatha Daguerre Vasconcelos">
         <meta property="og:type" content="website">
-        <meta property="og:title" content="Jonatha Daguerre Vasconcelos">
+        <meta property="og:title" content="{{ .Params.title }}">
         <meta property="og:url" content="{{ .Permalink }}">
         {{ if .Description }}
         <meta property="og:description" content="{{ .Description }}">
@@ -23,7 +23,7 @@
         <meta property="og:image" content="{{ .Site.BaseURL }}images/banner/glider-banner.jpg">
         {{ end }}
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:title" content="Jonatha Daguerre Vasconcelos">
+        <meta name="twitter:title" content="{{ .Params.title }}">
         {{ if .Description }}
         <meta name="twitter:description" content="{{ .Description }}">
         {{ else }}
