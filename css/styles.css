@@ -837,9 +837,19 @@ footer.entry-meta .meta-in {
 
 **********************************************************************/
 .color-nero {
-    color: #232323   
+    color: #232323
 }
- 
+
+.page-banner {
+    margin: 40px;
+    border: 5px;
+    color:#fff455
+}
+
+/**
+ * Fix to add Lattes Platform Icon
+ * https://github.com/FortAwesome/Font-Awesome/issues/6883#issuecomment-307194891
+ */
 @font-face {
     font-family: 'Lattes';
     src: url("../fonts-lattes/fontawesome-webfont-lattes.eot");
@@ -860,6 +870,25 @@ footer.entry-meta .meta-in {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.lattes-icon:before { 
-    content:"\f2b5"; 
+.lattes-icon:before {
+    content:"\f2b5";
+}
+
+/**
+ * Responsive Youtube Embed
+ * https://avexdesigns.com/responsive-youtube-embed/
+ */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+.video-container iframe, .video-container object, .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
