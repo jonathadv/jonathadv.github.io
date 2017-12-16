@@ -4,8 +4,8 @@ current_dir="${PWD}"
 
 hugo
 
-mv "${current_dir}/docs/pescar/page/1/index.html" "${current_dir}/docs/pescar/"
-rm -rf "${current_dir}/docs/pescar/page"
+mv "${current_dir}/docs/pescar/main/index.html" "${current_dir}/docs/pescar/"
+rm -rf "${current_dir}/docs/pescar/main"
 
 cp "404.html" "CNAME" "README.md" "${current_dir}/docs"
 
