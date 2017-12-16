@@ -6,7 +6,7 @@ description: "Além de possuírem a interface gráfica (GUI), proporcionando ao 
 ---
 
 
-<a href="/pescar" title="Voltar para Home Pescar"><i class="huge arrow circle left icon"></i><b>Voltar para Home Pescar</b></a>
+<a href="/pescar" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 
 Como usuários de computadores, estamos acostumados à interagir com programas gráficos como processadores de texto, editores de imagem, jogos, e outros. Embora essas ferramentas gráficas sejam o que utilizamos na maior parte do tempo como usuários domésticos de um computador, elas não são tudo o que um sistema operacional pode oferecer.
 Existe uma infinidade de programas que são utilizados apenas através de comandos de texto inseridos pelo usuário. Nós os chamamos de aplicações de interface de linha de comando ([CLI](http://pt.wikipedia.org/wiki/Linha_de_comandos)).

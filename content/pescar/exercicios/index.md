@@ -6,7 +6,7 @@ draft: false
 
 
 
-<a href="/pescar" title="Voltar para Home Pescar"><i class="huge arrow circle left icon"></i><b>Voltar para Home Pescar</b></a>
+<a href="/pescar" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 #### 1 - Uso do sistema
 **Data de entrega:** Terça-feira, 11 de julho de 2017
 
