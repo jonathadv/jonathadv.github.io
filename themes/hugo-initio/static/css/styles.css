@@ -836,6 +836,18 @@ footer.entry-meta .meta-in {
 
 
 **********************************************************************/
+.not-found-title {
+  font-weight: 300;
+  font-size: 80px;  
+  text-align: center;
+}
+
+.not-found-line {
+  font-weight: 300;
+  font-size: 1.3125rem;
+  text-align: center;
+}
+
 .color-nero {
     color: #232323
 }
