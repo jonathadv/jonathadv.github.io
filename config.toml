@@ -29,8 +29,8 @@ publishDir = "docs"
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = false
-    
-    
+
+
     showPosts = true
 
 [[menu.main]]
@@ -40,16 +40,16 @@ publishDir = "docs"
 [[menu.main]]
     name = "blog"
     url = "/posts/"
-    weight = 2    
+    weight = 2
 [[Languages.pt.menu.main]]
     name = "blog"
     url = "/pt/posts/"
-    weight = 2    
+    weight = 2
 [[Languages.pt.menu.main]]
     name = "home"
     url = "/pt"
     weight = 1
-    
+
 [[Languages.pt.menu.main]]
     name = "Como se Tornar um Hacker"
     url = "/hacker-howto"
@@ -62,7 +62,7 @@ publishDir = "docs"
     name = "Projeto Pescar - GNU/Linux"
     url = "/pescar"
     weight = 6
-    
+
 [params.google.analytics]
     trackerID = "UA-100627479-1"
 
@@ -93,7 +93,7 @@ publishDir = "docs"
     icon = "fa-stack-overflow"
     footer = true
     sharethis = false
-    network = ""    
+    network = ""
 [[params.social]]
     title = "email"
     url = "mailto:jonatha@daguere.com.br"
@@ -101,4 +101,12 @@ publishDir = "docs"
     footer = false
     sharethis = true
     network = "email"
-  
+[[params.social]]
+    title = "lattes"
+    url = "http://lattes.cnpq.br/2475560585762389"
+    class = "fa-lattes lattes-icon fa-2"
+    footer = true
+    sharethis = true
+    network = "lattes"
+    comment_i18n = "lattes"
+
