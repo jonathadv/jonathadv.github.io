@@ -24,3 +24,19 @@ other = "Ler mais"
 
 [lattes]
 other = "Currículo Lattes"
+
+[twitter]
+other = "Siga-me no Twitter"
+
+[linkedin]
+other = "Meu perfil no LinkedIn"
+
+[github]
+other = "Meu perfil no Github"
+
+[stackoverflow]
+other = "Meu perfil no Stack Overflow"
+
+[email]
+other = "Me envie um email"
+

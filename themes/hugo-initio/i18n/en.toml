@@ -23,4 +23,20 @@ other = "Latest Posts in"
 other = "Read more"
 
 [lattes]
-other = "My curriculum in Lattes Platform"
+other = "My curriculum in the Lattes Platform"
+
+[twitter]
+other = "Follow me on Twitter"
+
+[linkedin]
+other = "My LinkedIn Profile"
+
+[github]
+other = "My GitHub profile"
+
+[stackoverflow]
+other = "My Stack Overflow Profile"
+
+[email]
+other = "Email me"
+

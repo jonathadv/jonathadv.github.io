@@ -73,6 +73,7 @@ publishDir = "docs"
     footer = true
     sharethis = true
     network = "twitter"
+    comment_i18n = "twitter"
 [[params.social]]
     title = "linkedin"
     url = "https://www.linkedin.com/in/jonathadv"
@@ -80,6 +81,7 @@ publishDir = "docs"
     footer = true
     sharethis = true
     network = "linkedin"
+    comment_i18n = "linkedin"
 [[params.social]]
     title = "github"
     url = "https://github.com/jonathadv"
@@ -87,6 +89,7 @@ publishDir = "docs"
     footer = true
     sharethis = false
     network = "github"
+    comment_i18n = "github"
 [[params.social]]
     title = "stackoverflow"
     url = "http://stackoverflow.com/users/7254201/jonatha-daguerre"
@@ -94,6 +97,7 @@ publishDir = "docs"
     footer = true
     sharethis = false
     network = ""
+    comment_i18n = "stackoverflow"
 [[params.social]]
     title = "email"
     url = "mailto:jonatha@daguere.com.br"
@@ -101,6 +105,7 @@ publishDir = "docs"
     footer = false
     sharethis = true
     network = "email"
+    comment_i18n = "email"
 [[params.social]]
     title = "lattes"
     url = "http://lattes.cnpq.br/2475560585762389"
