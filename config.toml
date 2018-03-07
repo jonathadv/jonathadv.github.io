@@ -13,7 +13,7 @@ publishDir = "docs"
 [params]
     name = "Jonatha Daguerre Vasconcelos"
     description = "Hacker Culture | Education | Coding"
-    email = "jonatha@daguere.com.br"
+    email = "jonatha@daguerre.com.br"
     year = 2017
     background = ""
     favicon = "/images/favicon.ico"
@@ -100,7 +100,7 @@ publishDir = "docs"
     comment_i18n = "stackoverflow"
 [[params.social]]
     title = "email"
-    url = "mailto:jonatha@daguere.com.br"
+    url = "mailto:jonatha@daguerre.com.br"
     icon = "fa-envelope"
     footer = false
     sharethis = true
