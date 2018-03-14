@@ -114,4 +114,12 @@ publishDir = "docs"
     sharethis = true
     network = "lattes"
     comment_i18n = "lattes"
+[[params.social]]
+    title = "slideshare"
+    url = "https://www.slideshare.net/jonathadv"
+    icon = "fa-slideshare"
+    footer = true
+    sharethis = true
+    network = "slideshare"
+    comment_i18n = "slideshare"
 

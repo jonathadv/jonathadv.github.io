@@ -21,7 +21,8 @@ A baixo temos uma breve explicação sobre alguns dos comandos mais comuns em um
 
 ----
 
-###Elementos da linha de comando:
+### Elementos da linha de comando:
+
 <pre>usuario@nome-do-computador: ~$ comando -p --parametro "argumento"</pre>
 `usuario` - O nome do usuário autenticado no sistema.
 
@@ -153,7 +154,8 @@ Exemplos:
 
 ----
 
-###Artigos Externos
+### Artigos Externos
+
 * [Comandos Básicos para Iniciantes(vivaolinux.com.br)](https://www.vivaolinux.com.br/dica/Comandos-basicos-para-iniciantes)
 * [Introdução ao Shell Script (aurelio.net)](http://aurelio.net/shell/apostila-introducao-shell.pdf)
 * [Canivete Suíço do Shell (aurelio.net)](http://aurelio.net/shell/canivete/)
