@@ -92,7 +92,7 @@ publishDir = "docs"
     comment_i18n = "github"
 [[params.social]]
     title = "stackoverflow"
-    url = "http://stackoverflow.com/users/7254201/jonatha-daguerre"
+    url = "http://stackoverflow.com/users/7254201/jonathadv"
     icon = "fa-stack-overflow"
     footer = true
     sharethis = false
