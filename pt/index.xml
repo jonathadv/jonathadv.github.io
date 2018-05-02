@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonatha Daguerre Vasconcelos</title>
-    <link>http://jonatha.daguerre.com.br/pt/</link>
+    <link>https://jonatha.daguerre.com.br/pt/</link>
     <description>Recent content on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 17 Apr 2016 20:12:21 -0200</lastBuildDate>
     
-	<atom:link href="http://jonatha.daguerre.com.br/pt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonatha.daguerre.com.br/pt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sobre mim</title>
-      <link>http://jonatha.daguerre.com.br/pt/about/</link>
+      <link>https://jonatha.daguerre.com.br/pt/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/pt/about/</guid>
+      <guid>https://jonatha.daguerre.com.br/pt/about/</guid>
       <description> Jonatha é bacharel em Sistemas de Informação pela PUCRS e Java 8 Oracle Certified Associate. Fan de ShellScript, Python e RegEx, seus principais interesses incluem automação e arquitetura de aplicações.
  </description>
     </item>
     
     <item>
       <title>Ubunchu: Um Mangá sobre Ubuntu</title>
-      <link>http://jonatha.daguerre.com.br/pt/posts/2016-04-17_ubunchu/</link>
+      <link>https://jonatha.daguerre.com.br/pt/posts/2016-04-17_ubunchu/</link>
       <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/pt/posts/2016-04-17_ubunchu/</guid>
+      <guid>https://jonatha.daguerre.com.br/pt/posts/2016-04-17_ubunchu/</guid>
       <description>Para quem gosta de aprender brincando, segue uma ótima dica:
  Ubunchu é um mangá criado por Hiroshi Seo. Ele conta as aventuras de três amigos que fazem parte de um clube de administradores de sistemas: um deles gosta de Windows e acha que este é o melhor sistema operacional; Outra é fanática pelos Macs e a terceira usa Linux, mas o associa à digitação de complicadas linhas de comando.</description>
     </item>
     
     <item>
       <title>Vídeo Warriors of the Net</title>
-      <link>http://jonatha.daguerre.com.br/pt/posts/2016-04-16_warriors_of_the_net/</link>
+      <link>https://jonatha.daguerre.com.br/pt/posts/2016-04-16_warriors_of_the_net/</link>
       <pubDate>Sat, 16 Apr 2016 20:12:21 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/pt/posts/2016-04-16_warriors_of_the_net/</guid>
+      <guid>https://jonatha.daguerre.com.br/pt/posts/2016-04-16_warriors_of_the_net/</guid>
       <description>Você já se perguntou como a internet funciona? Como é um roteador? Que cor um pacote TCP tem, e como ele viaja através de um firewall? Todas essas respostas e muito mais podem ser encontrados no filme Warrior of the Net (Guerreiros da Internet). O filme está disponível em diversos idiomas, e é a ferramenta perfeita para a introdução sobre a Internet para novos usuários.
  Site oficial: http://www.</description>
     </item>

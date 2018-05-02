@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonatha Daguerre Vasconcelos</title>
-    <link>http://jonatha.daguerre.com.br/</link>
+    <link>https://jonatha.daguerre.com.br/</link>
     <description>Recent content on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 14 Dec 2017 22:58:13 -0200</lastBuildDate>
     
-	<atom:link href="http://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>http://jonatha.daguerre.com.br/about/</link>
+      <link>https://jonatha.daguerre.com.br/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/about/</guid>
+      <guid>https://jonatha.daguerre.com.br/about/</guid>
       <description> Jonatha holds a Bachelor&amp;rsquo;s degree in Information Systems from PUCRS and is a Java 8 Oracle Certified Associate. Fan of ShellScript, Python and RegEx, his main interests include automation and application architecture.
  </description>
     </item>
     
     <item>
       <title>Exercícios de Aula</title>
-      <link>http://jonatha.daguerre.com.br/pescar/exercicios/</link>
+      <link>https://jonatha.daguerre.com.br/pescar/exercicios/</link>
       <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/pescar/exercicios/</guid>
+      <guid>https://jonatha.daguerre.com.br/pescar/exercicios/</guid>
       <description>Voltar para Home Pescar
 1 - Uso do sistema Data de entrega: Terça-feira, 11 de julho de 2017
 Realize cada uma das tarefas a baixo no seu computador:
@@ -34,20 +34,20 @@ Realize cada uma das tarefas a baixo no seu computador:
     
     <item>
       <title>Linha de Comando</title>
-      <link>http://jonatha.daguerre.com.br/pescar/cli/</link>
+      <link>https://jonatha.daguerre.com.br/pescar/cli/</link>
       <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/pescar/cli/</guid>
+      <guid>https://jonatha.daguerre.com.br/pescar/cli/</guid>
       <description>Voltar para Home Pescar
 Como usuários de computadores, estamos acostumados à interagir com programas gráficos como processadores de texto, editores de imagem, jogos, e outros. Embora essas ferramentas gráficas sejam o que utilizamos na maior parte do tempo como usuários domésticos de um computador, elas não são tudo o que um sistema operacional pode oferecer. Existe uma infinidade de programas que são utilizados apenas através de comandos de texto inseridos pelo usuário.</description>
     </item>
     
     <item>
       <title>Projeto Pescar - GNU/Linux</title>
-      <link>http://jonatha.daguerre.com.br/pescar/main/</link>
+      <link>https://jonatha.daguerre.com.br/pescar/main/</link>
       <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/pescar/main/</guid>
+      <guid>https://jonatha.daguerre.com.br/pescar/main/</guid>
       <description>Bem vindo aluno!  O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do Projeto Pescar Unidade Procempa. Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre.
 Documentos de Aula  Software Livre e GNU/Linux (apresentação em PDF)
  Linux Mint 18 - Guia Oficial do Usuário</description>
@@ -55,10 +55,10 @@ Documentos de Aula  Software Livre e GNU/Linux (apresentação em PDF)
     
     <item>
       <title>TED Vídeos</title>
-      <link>http://jonatha.daguerre.com.br/pescar/ted/</link>
+      <link>https://jonatha.daguerre.com.br/pescar/ted/</link>
       <pubDate>Thu, 14 Dec 2017 22:58:13 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/pescar/ted/</guid>
+      <guid>https://jonatha.daguerre.com.br/pescar/ted/</guid>
       <description>Voltar para Home Pescar
 Página dedicada a compartilhar vídeos do TED com temas relacionados ao desenvolvimento pessoal e profissional. Os vídeos estão legendados em português.
 Por que a melhor contratação não precisa ter o currículo perfeito
@@ -67,10 +67,10 @@ Por que a melhor contratação não precisa ter o currículo perfeito
     
     <item>
       <title>Ubunchu: A Manga about Ubuntu</title>
-      <link>http://jonatha.daguerre.com.br/posts/2016-04-17_ubunchu/</link>
+      <link>https://jonatha.daguerre.com.br/posts/2016-04-17_ubunchu/</link>
       <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/posts/2016-04-17_ubunchu/</guid>
+      <guid>https://jonatha.daguerre.com.br/posts/2016-04-17_ubunchu/</guid>
       <description>For those who like to learn having fun, there is a great tip:
  &amp;ldquo;Ubunchu!&amp;rdquo; is a Japanese manga series by Hiroshi Seo featuring Ubuntu Linux. Three school students in a system-admin club are getting into Ubuntu!
  Offical site: https://seotch.wordpress.com/ubunchu/
@@ -81,10 +81,10 @@ Enjoy!</description>
     
     <item>
       <title>Video Warriors of the Net</title>
-      <link>http://jonatha.daguerre.com.br/posts/2016-04-16_warriors_of_the_net/</link>
+      <link>https://jonatha.daguerre.com.br/posts/2016-04-16_warriors_of_the_net/</link>
       <pubDate>Sat, 16 Apr 2016 20:12:21 -0200</pubDate>
       
-      <guid>http://jonatha.daguerre.com.br/posts/2016-04-16_warriors_of_the_net/</guid>
+      <guid>https://jonatha.daguerre.com.br/posts/2016-04-16_warriors_of_the_net/</guid>
       <description>Did you ever wonder how the Internet works? How does a router look like? What color does a IP packet have and how does it travel through a firewall? All the answers and many more can be found in the Warriors of the net movie. The movie is available in many different languages and it is the perfect tool for introducing Internet to novice users.
  Oficial web site: http://www.</description>
     </item>
