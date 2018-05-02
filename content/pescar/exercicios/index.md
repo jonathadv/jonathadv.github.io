@@ -47,7 +47,7 @@ Abra o terminal e execute os comandos necessários para realizar as tarefas abai
 
 Após o término de todas as tarefas, você deve copiar todo o conteúdo da janela, colocar **no corpo de um email** e enviá-lo para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`. O título do email **deve ser** `CLI Parte 1`.
 
-**Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](http://jonatha.daguerre.com.br/pescar/cli/).
+**Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](https://jonatha.daguerre.com.br/pescar/cli/).
 
 ###### Tarefas
 1. Use o comando que mostra qual diretório você está atualmente.
@@ -73,7 +73,7 @@ Abra o terminal e execute os comandos necessários para realizar as tarefas abai
 
 Após o término de todas as tarefas, você deve copiar todo o conteúdo da janela, colocar **no corpo de um email** e enviá-lo para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`. O título do email **deve ser** `CLI Parte 2`.
 
-**Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](http://jonatha.daguerre.com.br/pescar/cli/).
+**Atenção:** Você pode consultar a lista de comandos vistos em aula [aqui](https://jonatha.daguerre.com.br/pescar/cli/).
 
 ###### Tarefas
 1. Use o comando que mostra as informações de espaço usado no HD (lembre de usar o parâmetro `-h` para mostrar as informações com melhor legibilidade).
