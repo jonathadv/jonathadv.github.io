@@ -49,12 +49,12 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 ### Eventos de Software Livre no Brasil
 <br/>
-[![](http://static.daguerre.com.br/banner_fisl.jpg)](http://fisl.softwarelivre.org)
+[![](https://jonatha.daguerre.com.br/images/pescar/banner_fisl.jpg)](http://fisl.softwarelivre.org)
 
 
-[![](http://static.daguerre.com.br/banner_latinoware.jpg)](http://latinoware.org/)
+[![](https://jonatha.daguerre.com.br/images/pescar/banner_latinoware.jpg)](http://latinoware.org/)
 
-[![](http://static.daguerre.com.br/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
+[![](https://jonatha.daguerre.com.br/images/pescar/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
 
 
 ----
