@@ -7,15 +7,17 @@ description: "O objetivo desta página é oferecer conteúdo de apoio às aulas 
 ---
 
 ### Bem vindo aluno!  <i class="fa fa-linux "></i>
-O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do [Projeto Pescar Unidade Procempa](http://www2.portoalegre.rs.gov.br/pescar). Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux e Software Livre.
+O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU/Linux do [Projeto Pescar Unidade Procempa](http://www2.portoalegre.rs.gov.br/pescar). Aqui você encontrará links para vídeos, textos e manuais sobre os principais tópicos vistos nas aulas, bem como para assuntos gerais relacionados ao GNU/Linux, Software Livre e Código Aberto.
 
 
 ----
 
 ### Documentos de Aula
-<i class="fa fa-file-pdf-o"></i> [Software Livre e GNU/Linux (apresentação em PDF)](http://static.daguerre.com.br/Software_Livre_e_%20GNU_Linux.pdf)
+<i class="fa fa-file-pdf-o"></i> [Projeto Pescar GNU/Linux (apresentação em PDF)](http://static.daguerre.com.br/Projeto_Pescar_GNU_Linux.pdf?attredirects=0)
 
-<i class="fa fa-file-pdf-o"></i> [Linux Mint 18 - Guia Oficial do Usuário](https://www.linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
+<i class="fa fa-file-text-o"></i> [Linux Mint 18 - Guia de instalação](https://linuxmint-installation-guide.readthedocs.io/pt_BR/latest/)
+
+<i class="fa fa-file-pdf-o"></i> [Linux Mint 18 - Guia Oficial do Usuário](https://linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf)
 
 <i class="fa fa-file-text-o"></i> [Linha de Comando](/pescar/cli)
 
@@ -24,25 +26,24 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 ### Extras
 <i class="fa fa-file-text-o"></i> [Ubunchu: Um Mangá sobre Ubuntu](/pt/posts/2016-04-17_ubunchu/)
 
+<i class="fa fa-file-text-o"></i> [Como se Tornar um Hacker](/hacker-howto/)
+
 <i class="fa fa-file-video-o"></i> [Vídeos do TED](/pescar/ted/)
 
 ----
 
-### Sites Relacionados
+### Artigos Externos
+* [Software livre, código aberto e software gratuito: as diferenças](http://www.infowester.com/freexopen.php)
+* [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/)
+
+
+### Outros sites
 * [Projeto GNU](http://www.gnu.org/philosophy/free-sw.pt-br.html)
 * [Software Livre Brasil](http://softwarelivre.org/)
 * [TcheLinux.org](http://tchelinux.org/)
 * [Forum Viva o Linux](http://www.vivaolinux.com.br/)
 * [Softwares alternativos para Linux](http://www.linuxalt.com/)
 * [Buscador de Aplicativos para Linux](http://linuxappfinder.com/alternatives)
-
-### Artigos Externos
-* [Software livre, código aberto e software gratuito: as diferenças](http://www.infowester.com/freexopen.php)
-* [Linha do tempo das Distribuilções GNU/Linux](http://futurist.se/gldt/)
-
-### Sites de Distribuições
-* [Debian](https://www.debian.org/index.pt.html)
-* [Linux Mint Brasil](http://www.linuxmint.com.br)
 
 ----
 
@@ -53,7 +54,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 
 [![](http://static.daguerre.com.br/banner_latinoware.jpg)](http://latinoware.org/)
 
-[![](http://static.daguerre.com.br/banner_flisol.jpg)](https://flisol.info/FLISOL2017/Brasil)
+[![](http://static.daguerre.com.br/banner_flisol.jpg)](https://flisol.info/FLISOL2018/Brasil)
 
 
 ----

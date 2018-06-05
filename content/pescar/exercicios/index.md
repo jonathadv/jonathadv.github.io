@@ -8,7 +8,7 @@ draft: false
 
 <a href="/pescar" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
 #### 1 - Uso do sistema
-**Data de entrega:** Terça-feira, 11 de julho de 2017
+**Data de entrega:** ???
 
 Realize cada uma das tarefas a baixo no seu computador:
 
@@ -21,7 +21,7 @@ Realize cada uma das tarefas a baixo no seu computador:
 
 #### 2 - Texto sobre as aulas
 
-**Data de entrega:** Terça-feira, 11 de julho de 2017
+**Data de entrega:** ???
 
 Escrever um pequeno texto (pode ser um parágrafo) falando sobre algo que gostou nas aulas que tivemos até agora, ou sobre algum tópico ou vídeo da [página web](/pescar) do módulo. Explique do que gostou e o porquê.
 Enviar o texto por email (anexo ou no corpo do email) para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`.
@@ -41,7 +41,7 @@ Enviar o texto por email (anexo ou no corpo do email) para `jonatha@daguerre.com
 
 #### 3 - CLI Parte 1
 
-**Data de entrega:** Quinta-feira, 13 de julho de 2017
+**Data de entrega:** ???
 
 Abra o terminal e execute os comandos necessários para realizar as tarefas abaixo. Faça todas as tarefas na mesma janela de terminal.
 
@@ -67,7 +67,7 @@ Vá até o menu `Editar` e clique em `Selecionar tudo`, depois volte ao menu `Ed
 
 #### 4 - CLI Parte 2
 
-**Data de entrega:** Terça-feira, 01 de Agosto de 2017
+**Data de entrega:** ???
 
 Abra o terminal e execute os comandos necessários para realizar as tarefas abaixo. Faça todas as tarefas na mesma janela de terminal.
 
