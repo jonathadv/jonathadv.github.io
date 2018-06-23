@@ -1,13 +1,30 @@
 ---
 title: "Exercícios de Aula"
-date: 2017-12-14T22:58:13-02:00
+date: 2018-06-23T15:42:00-03:00
 draft: false
 ---
 
 
 
 <a href="/pescar" title="Voltar para Home Pescar"><i class="fa fa-arrow-circle-o-left"></i><b>Voltar para Home Pescar</b></a>
+
 #### 1 - Uso do sistema
+**Data de entrega:** 20/06/2018
+
+Realize cada uma das tarefas a baixo no seu computador:
+
+- Crie uma pasta com seu nome, dentro da pasta "Documentos".
+- Crie um arquivo de texto dentro dessa pasta com o seguinte nome "Tarefas-20-06-2018.txt".
+- Tire um print (screenshot) dessa tela.
+- Escreva dentro do arquivo "Tarefas-20-06-2018.txt" as seguintes informações sobre as configurações do computador: **memória ram**, **capacidade de HD (disco rígido)** e **velocidade do processador**.
+- Buscar no Google uma imagem usando as palavras ["tux wallpaper"](http://lmgtfy.com/?q=Tux+wallpaper) e coloque como plano de fundo da área de trabalho.
+- Altere o painel de tarefas de lugar.
+- Novamente, tire um print (screenshot) da área de trabalho e salve na pasta "Imagens".
+- Enviar o arquivo "Tarefas-20-06-2018.txt" e os prints da tela, num arquivo compactado (zipado), com a extensão ".zip" por email para `jonatha@daguerre.com.br` e `mikael.mmedeiros@gmail.com`.
+
+
+
+#### 2 - Uso do sistema
 **Data de entrega:** ???
 
 Realize cada uma das tarefas a baixo no seu computador:
@@ -19,7 +36,7 @@ Realize cada uma das tarefas a baixo no seu computador:
 - Criar uma um arquivo de texto puro nessa pasta, procurar no Google a letra de uma música que goste e colar dentro do arquivo e salvar.
 
 
-#### 2 - Texto sobre as aulas
+#### 3 - Texto sobre as aulas
 
 **Data de entrega:** ???
 
@@ -39,7 +56,7 @@ Enviar o texto por email (anexo ou no corpo do email) para `jonatha@daguerre.com
 
 ----
 
-#### 3 - CLI Parte 1
+#### 4 - CLI Parte 1
 
 **Data de entrega:** ???
 
@@ -65,7 +82,7 @@ Após o término de todas as tarefas, você deve copiar todo o conteúdo da jane
 ###### Para copiar o conteúdo da janela de terminal
 Vá até o menu `Editar` e clique em `Selecionar tudo`, depois volte ao menu `Editar` e clique em `Copiar`.
 
-#### 4 - CLI Parte 2
+#### 5 - CLI Parte 2
 
 **Data de entrega:** ???
 
