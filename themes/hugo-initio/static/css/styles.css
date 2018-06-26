@@ -873,6 +873,21 @@ footer.entry-meta .meta-in {
     text-transform: none;
 }
 
+/**
+ * Fix to add Goodreds Icon
+ * https://github.com/FortAwesome/Font-Awesome/issues/6883#issuecomment-307194891
+ */
+@font-face {
+    font-family: 'Goodreads';
+    src: url("../fonts-goodreads/goodreads.eot");
+    src: url("../fonts-goodreads/goodreads.eot?#iefix") format('embedded-opentype'), url("../fonts-goodreads/goodreads.woff2") format('woff2'), url("../fonts-goodreads/goodreads.woff") format('woff'), url("../fonts-goodreads/goodreads.ttf") format('truetype'), url("../fonts-goodreads/goodreads.svg#icons") format('svg');
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-decoration: inherit;
+    text-transform: none;
+}
+
 .fa-lattes {
   display: inline-block;
   font: normal normal normal 14px/1 Lattes;
@@ -885,6 +900,24 @@ footer.entry-meta .meta-in {
 .lattes-icon:before {
     content:"\f2b5";
 }
+
+.fa-goodreads {
+  display: inline-block;
+  font: normal normal normal 14px/1 Lattes;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.goodreads-icon:before {
+    content:"\e901";
+}
+
+.goodreads-icon-2:before {
+    content:"\e900";
+}
+
 
 /**
  * Responsive Youtube Embed
