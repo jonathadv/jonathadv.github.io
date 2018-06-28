@@ -903,7 +903,7 @@ footer.entry-meta .meta-in {
 
 .fa-goodreads {
   display: inline-block;
-  font: normal normal normal 14px/1 Lattes;
+  font: normal normal normal 14px/1 Goodreads;
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
@@ -911,11 +911,11 @@ footer.entry-meta .meta-in {
 }
 
 .goodreads-icon:before {
-    content:"\e901";
+    content:"\e800";
 }
 
 .goodreads-icon-2:before {
-    content:"\e900";
+    content:"\e801";
 }
 
 

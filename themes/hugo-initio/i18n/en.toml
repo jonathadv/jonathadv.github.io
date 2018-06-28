@@ -29,16 +29,19 @@ other = "My curriculum in the Lattes Platform"
 other = "Follow me on Twitter"
 
 [linkedin]
-other = "My LinkedIn Profile"
+other = "My LinkedIn profile"
 
 [github]
 other = "My GitHub profile"
 
 [stackoverflow]
-other = "My Stack Overflow Profile"
+other = "My Stack Overflow profile"
 
 [email]
 other = "Email me"
 
 [slideshare]
-other = "My SlideShare Profile"
+other = "My SlideShare profile"
+
+[goodreads]
+other = "My Goodreads profile"
