@@ -5,7 +5,7 @@
     <link>https://jonatha.daguerre.com.br/</link>
     <description>Recent content on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Jun 2018 15:42:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 09:18:13 -0200</lastBuildDate>
     
 	<atom:link href="https://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,16 @@
       <guid>https://jonatha.daguerre.com.br/about/</guid>
       <description> Jonatha holds a Bachelor&amp;rsquo;s degree in Information Systems from PUCRS and is a Java 8 Oracle Certified Associate. Fan of ShellScript, Python and RegEx, his main interests include automation and application architecture.
  </description>
+    </item>
+    
+    <item>
+      <title>LibreOffice</title>
+      <link>https://jonatha.daguerre.com.br/pescar/libreoffice/</link>
+      <pubDate>Mon, 09 Jul 2018 09:18:13 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/pescar/libreoffice/</guid>
+      <description>Voltar para Home Pescar
+ LibreOffice é uma suíte de aplicativos livre para escritório disponível para Windows, Unix, Solaris, Linux e Mac OS X. A suíte utiliza o formato OpenDocument (ODF - OpenDocument Format) — formato homologado como ISO/IEC 26300 e NBR ISO/IEC 26300 — e é também compatível com os formatos do Microsoft Office, além de outros formatos legados. Alguns deles não são suportados pelas versões mais recentes do Microsoft Office, mas ainda podem ser abertos pelo LibreOffice.</description>
     </item>
     
     <item>
