@@ -122,4 +122,13 @@ publishDir = "docs"
     sharethis = true
     network = "lattes"
     comment_i18n = "lattes"
+ [[params.social]]
+    title = "goodreds"
+    url = "https://www.goodreads.com/jonathadv"
+    class = "fa-goodreads goodreads-icon-2 fa-2"
+    footer = true
+    sharethis = true
+    network = "Goodreads"
+    comment_i18n = "goodreads"
+   
 
