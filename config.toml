@@ -116,7 +116,7 @@ publishDir = "docs"
     comment_i18n = "slideshare"
 [[params.social]]
     title = "lattes"
-    url = "http://lattes.cnpq.br/2475560585762389"
+    url = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8649414T2&tipo=completo&idiomaExibicao=1"
     class = "fa-lattes lattes-icon fa-2"
     footer = true
     sharethis = true

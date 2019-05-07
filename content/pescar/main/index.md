@@ -13,7 +13,7 @@ O objetivo desta página é oferecer conteúdo de apoio às aulas do módulo GNU
 ----
 
 ### Documentos de Aula
-<i class="fa fa-file-pdf-o"></i> [Projeto Pescar GNU/Linux (apresentação em PDF)](http://static.daguerre.com.br/Projeto_Pescar_GNU_Linux.pdf?attredirects=0)
+<i class="fa fa-file-pdf-o"></i> [Projeto Pescar GNU/Linux (apresentação em PDF)](/post-content/pescar/Projeto_Pescar_GNU_Linux.pdf)
 
 <i class="fa fa-file-text-o"></i> [Linux Mint 18 - Guia de instalação](https://linuxmint-installation-guide.readthedocs.io/pt_BR/latest/)
 
