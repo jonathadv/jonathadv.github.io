@@ -1,134 +1,67 @@
-baseURL = "https://jonatha.daguerre.com.br/"
+## Basic Configuration
+
+baseurl = "https://jonatha.daguerre.com.br" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Jonatha Daguerre Vasconcelos"
 title = "Jonatha Daguerre Vasconcelos"
-theme = "hugo-initio"
-publishDir = "docs"
 
-[Languages]
-[Languages.en]
-    weight = 1
+theme = "hugo-goa"
 
-[Languages.pt]
-    weight = 2
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "UA-100627479-1"
+enableRobotsTXT = true
 
+## Site Settings
 [params]
-    name = "Jonatha Daguerre Vasconcelos"
-    description = "Hacker Culture | Education | Coding"
-    email = "jonatha@daguerre.com.br"
-    year = 2017
-    background = ""
-    favicon = "/images/favicon.ico"
-    DateForm = "2/01/2006"
+author = "Jonatha Daguerre Vasconcelos"
+intro = "Software Developer"
+description = "Software Architect @ADP"
+authorimage = "jonatha.jpg"
+dateformat = "2/01/2006"
 
-    showSubheader = false
-    showServices = false
-    showRecentWorks = false
-    showDownload = false
-    showClients = false
-    footerEnableFormWidget = false
+## Site Meta Settings
+[params.meta]
+description = "Jonatha Daguerre Vasconcelos"
+keywords = "blog,developer,software"
 
-    footerEnableContact = true
-    footerEnableFollowme = true
-    footerEnableTextWidget = false
+## Social Accounts
+[params.social]
+github = "jonathadv"
+linkedin = "jonathadv"
+slideshare = "jonathadv"
+twitter = "jonathadv"
+stackoverflow = "7254201"
+email = "jonatha@daguerre.com.br"
+goodreads = "jonathadv"
+lattes = "K8649414T2"
 
+## Extras
+[params.extra]
+copyright = "© 2019. Jonatha Daguerre Vasconcelos." 
+poweredby = true
+hightlightjs = true
 
-    showPosts = true
-
-[[menu.main]]
-    name = "home"
-    url = "/"
-    weight = 1
+## Main Menu
 [[menu.main]]
     name = "blog"
-    url = "/posts/"
-    weight = 2
-[[Languages.pt.menu.main]]
-    name = "blog"
-    url = "/pt/posts/"
-    weight = 2
-[[Languages.pt.menu.main]]
-    name = "home"
-    url = "/pt"
-    weight = 1
-
-[[Languages.pt.menu.main]]
-    name = "Como se Tornar um Hacker"
-    url = "/hacker-howto"
-    weight = 4
-[[Languages.pt.menu.main]]
-    name = "Glider: Um Emblema Hacker Universal"
-    url = "/hacker-emblem"
-    weight = 5
-[[Languages.pt.menu.main]]
-    name = "Projeto Pescar - GNU/Linux"
-    url = "/pescar"
-    weight = 6
-
-[params.google.analytics]
-    trackerID = "UA-100627479-1"
-
-[[params.social]]
-    title = "twitter"
-    url = "https://twitter.com/jonathadv"
-    icon = "fa-twitter"
-    footer = true
-    sharethis = true
-    network = "twitter"
-    comment_i18n = "twitter"
-[[params.social]]
-    title = "linkedin"
-    url = "https://www.linkedin.com/in/jonathadv"
-    icon = "fa-linkedin"
-    footer = true
-    sharethis = true
-    network = "linkedin"
-    comment_i18n = "linkedin"
-[[params.social]]
-    title = "github"
-    url = "https://github.com/jonathadv"
-    icon = "fa-github"
-    footer = true
-    sharethis = false
-    network = "github"
-    comment_i18n = "github"
-[[params.social]]
-    title = "stackoverflow"
-    url = "http://stackoverflow.com/users/7254201/jonathadv"
-    icon = "fa-stack-overflow"
-    footer = true
-    sharethis = false
-    network = ""
-    comment_i18n = "stackoverflow"
-[[params.social]]
-    title = "email"
-    url = "mailto:jonatha@daguerre.com.br"
-    icon = "fa-envelope"
-    footer = false
-    sharethis = true
-    network = "email"
-    comment_i18n = "email"
-[[params.social]]
-    title = "slideshare"
-    url = "https://www.slideshare.net/jonathadv"
-    icon = "fa-slideshare"
-    footer = true
-    sharethis = true
-    network = "slideshare"
-    comment_i18n = "slideshare"
-[[params.social]]
-    title = "lattes"
-    url = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8649414T2&tipo=completo&idiomaExibicao=1"
-    class = "fa-lattes lattes-icon fa-2"
-    footer = true
-    sharethis = true
-    network = "lattes"
-    comment_i18n = "lattes"
- [[params.social]]
-    title = "goodreds"
-    url = "https://www.goodreads.com/jonathadv"
-    class = "fa-goodreads goodreads-icon-2 fa-2"
-    footer = true
-    sharethis = true
-    network = "Goodreads"
-    comment_i18n = "goodreads"
-   
-
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    weight = 300
+    url = "/projects/"

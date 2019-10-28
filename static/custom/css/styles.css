@@ -1,0 +1,108 @@
+/*********************************************************************
+
+
+                                JDV CSS
+
+
+**********************************************************************/
+.not-found-title {
+  font-weight: 300;
+  font-size: 80px;  
+  text-align: center;
+}
+
+.not-found-line {
+  font-weight: 300;
+  font-size: 1.3125rem;
+  text-align: center;
+}
+
+.color-nero {
+    color: #232323
+}
+
+.page-banner {
+    margin: 40px;
+    border: 5px;
+    color:#fff455
+}
+
+/**
+ * Fix to add Lattes Platform Icon
+ * https://github.com/FortAwesome/Font-Awesome/issues/6883#issuecomment-307194891
+ */
+@font-face {
+    font-family: 'Lattes';
+    src: url("../fonts-lattes/fontawesome-webfont-lattes.eot");
+    src: url("../fonts-lattes/fontawesome-webfont-lattes.eot?#iefix") format('embedded-opentype'), url("../fonts-lattes/fontawesome-webfont-lattes.woff2") format('woff2'), url("../fonts-lattes/fontawesome-webfont-lates.woff") format('woff'), url("../fonts-lattes/fontawesome-webfont-lattes.ttf") format('truetype'), url("../fonts-lattes/fontawesome-webfont-lattes.svg#icons") format('svg');
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-decoration: inherit;
+    text-transform: none;
+}
+
+/**
+ * Fix to add Goodreds Icon
+ * https://github.com/FortAwesome/Font-Awesome/issues/6883#issuecomment-307194891
+ */
+@font-face {
+    font-family: 'Goodreads';
+    src: url("../fonts-goodreads/goodreads.eot");
+    src: url("../fonts-goodreads/goodreads.eot?#iefix") format('embedded-opentype'), url("../fonts-goodreads/goodreads.woff2") format('woff2'), url("../fonts-goodreads/goodreads.woff") format('woff'), url("../fonts-goodreads/goodreads.ttf") format('truetype'), url("../fonts-goodreads/goodreads.svg#icons") format('svg');
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-decoration: inherit;
+    text-transform: none;
+}
+
+.fa-lattes {
+  display: inline-block;
+  font: normal normal normal 14px/1 Lattes;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lattes-icon:before {
+    content:"\f2b5";
+}
+
+.fa-goodreads {
+  display: inline-block;
+  font: normal normal normal 14px/1 Goodreads;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.goodreads-icon:before {
+    content:"\e800";
+}
+
+.goodreads-icon-2:before {
+    content:"\e801";
+}
+
+
+/**
+ * Responsive Youtube Embed
+ * https://avexdesigns.com/responsive-youtube-embed/
+ */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+.video-container iframe, .video-container object, .video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
