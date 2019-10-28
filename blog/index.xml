@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jonatha Daguerre Vasconcelos</title>
-    <link>https://jonatha.daguerre.com.br/</link>
-    <description>Recent content on Jonatha Daguerre Vasconcelos</description>
+    <title>Blogs on Jonatha Daguerre Vasconcelos</title>
+    <link>https://jonatha.daguerre.com.br/blog/</link>
+    <description>Recent content in Blogs on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 17 Apr 2016 20:12:21 -0200</lastBuildDate>
     
-	<atom:link href="https://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonatha.daguerre.com.br/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://jonatha.daguerre.com.br/about/</link>
-      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/about/</guid>
-      <description> Jonatha holds a Bachelor&amp;rsquo;s degree in Information Systems from PUCRS. Fan of ShellScript, Python and RegEx, his main interests include automation and application architecture.
- </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://jonatha.daguerre.com.br/projects/</link>
-      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/projects/</guid>
-      <description> Documents  Como se Tornar um Hacker (Tradução) Glider: Um Emblema Hacker Universal (Tradução) GNU/Linux - Projeto Pescar (Material de apoio)  </description>
-    </item>
     
     <item>
       <title>Ubunchu: A Manga about Ubuntu</title>
