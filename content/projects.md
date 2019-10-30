@@ -11,6 +11,18 @@ showcomments = true
 +++
 
 
+## Web Pages
+- [Fuel Cost Splitter](https://fcs.sigterm.com.br/)
+- [The Last Question Countdown](https://tlq.daguerre.com.br/)
+
+## Developer tools
+- [Docker System Admin and Troubleshooting Toolkit](https://hub.docker.com/r/jonathadv/admin-toolkit/)
+- [Unittest Prettify](https://github.com/jonathadv/unittest-prettify)
+- [Driloader](https://github.com/lucasmello/Driloader)
+
+## CLI
+- [Metroclima database CLI tool](https://github.com/jonathadv/metroclima-cli)
+- [PyPoABus](https://github.com/jonathadv/py-poa-bus)
 
 ## Documents
 - [Como se Tornar um Hacker (Tradução)](https://jonatha.daguerre.com.br/hacker-howto/)
