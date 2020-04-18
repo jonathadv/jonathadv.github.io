@@ -1,4 +1,5 @@
 #!/bin/bash -exu
+hugo
 mv "public/" "${HOME}/" 
 git checkout master
 
