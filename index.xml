@@ -6,10 +6,34 @@
     <description>Recent content on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Jun 2020 16:02:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 23:53:00 -0300</lastBuildDate>
     
 	<atom:link href="https://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://jonatha.daguerre.com.br/about/</link>
+      <pubDate>Thu, 11 Jun 2020 23:53:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/about/</guid>
+      <description>Português | English
+Working as software developer for 7+ years, Jonatha accumulated experience in many different languages, frameworks, tools and processes. His passion for problem solving and automation led him to be a reference in automation, infrastucture, GNU/Linux and RegEx among his co-workers.
+He holds a Bachelor’s degree in Information Systems and a MBA in Data Science/Big Data from PUCRS.
+Currently, he works at ADP as Software Architect, building solutions to support the company&amp;rsquo;s global infrastructure team.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://jonatha.daguerre.com.br/sobre/</link>
+      <pubDate>Thu, 11 Jun 2020 23:53:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/sobre/</guid>
+      <description>Português | English
+Trabalhando como desenvolvedor de software por mais de 7 anos, Jonatha acumulou experiência em diversos linguagens, frameworks, ferramentas e processos. Sua paixão pela solução de problemas e automação o levou a ser uma referência em automação, infraestrutura, GNU / Linux e RegEx entre seus colegas de trabalho.
+É formado em Sistemas de Informação e possui MBA em Ciência de Dados / Big Data pela PUCRS.
+Atualmente, ele trabalha na ADP como Arquiteto de Software, criando soluções para dar suporte à equipe de infraestrutura global da empresa.</description>
+    </item>
     
     <item>
       <title>Principles</title>
@@ -17,8 +41,8 @@
       <pubDate>Thu, 11 Jun 2020 16:02:00 -0300</pubDate>
       
       <guid>https://jonatha.daguerre.com.br/principles/</guid>
-      <description>My Principles for Life and Work Português | English
-TBD</description>
+      <description>Português | English
+My Principles for Life and Work TBD</description>
     </item>
     
     <item>
@@ -27,20 +51,9 @@ TBD</description>
       <pubDate>Thu, 11 Jun 2020 16:02:00 -0300</pubDate>
       
       <guid>https://jonatha.daguerre.com.br/principios/</guid>
-      <description>Meus Princípios de Vida e Trabalho Português | English
-Inspirado pelo livro Princípios, de Ray Dalio, venho refletindo constantemente sobre os princípios de vida e de trabalho que têm conduzido minha vida pessoal e profissional até o momento. Após vários meses da finalização do livro, consegui colocar no papel os meus próprios princípios.
+      <description>Português | English
+Meus Princípios de Vida e Trabalho Inspirado pelo livro Princípios, de Ray Dalio, venho refletindo constantemente sobre os princípios de vida e de trabalho que têm conduzido minha vida pessoal e profissional até o momento. Após vários meses da finalização do livro, consegui colocar no papel os meus próprios princípios.
 Trata-se de uma lista em constante evolução, que reflete os comportamentos e crenças que deram certo para mim.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://jonatha.daguerre.com.br/about/</link>
-      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/about/</guid>
-      <description>Working as software developer for 7+ years, Jonatha accumulated experience in many different languages, frameworks, tools and processes. His passion for problem solving and automation led him to be a reference in automation, infrastucture, GNU/Linux and RegEx among his co-workers.
-He holds a Bachelor’s degree in Information Systems and a MBA in Data Science/Big Data from PUCRS.
-Currently, he works at ADP as Software Architect, building solutions to support the company&amp;rsquo;s global infrastructure team.</description>
     </item>
     
     <item>
