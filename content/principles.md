@@ -10,10 +10,10 @@ showpagemeta = false
 showcomments = true
 +++
 
-# My Principles for Life and Work
-
 [Português](/principios) | English
 
+
+# My Principles for Life and Work
 
 TBD
 

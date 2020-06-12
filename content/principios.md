@@ -10,9 +10,10 @@ showpagemeta = false
 showcomments = true
 +++
 
-# Meus Princípios de Vida e Trabalho
-
 Português | [English](/principles)
+
+
+# Meus Princípios de Vida e Trabalho
 
 Inspirado pelo livro *[Princípios](https://www.principles.com/)*, de Ray Dalio, venho refletindo constantemente sobre os princípios de vida e de trabalho que têm conduzido minha vida pessoal e profissional até o momento. Após vários meses da finalização do livro, consegui colocar no papel os meus próprios princípios.
 
