@@ -1,38 +1,41 @@
 <section id="social-pane" class="row text-center social">
   {{ with .Site.Params.social.twitter }}
-  <a href="https://twitter.com/{{.}}"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/{{.}}"><i class="fa fa-twitter" aria-hidden="true" target="_blank" rel="noopener"></i></i></a>
   {{ end }}
   {{ with .Site.Params.social.google }}
-  <a href="https://plus.google.com/{{.}}/about"><i class="fa fa-google-plus-official" aria-hidden="true"></i></a>
+  <a href="https://plus.google.com/{{.}}/about" target="_blank" rel="noopener"><i class="fa fa-google-plus-official" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.facebook }}
-  <a href="https://facebook.com/{{.}}"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+  <a href="https://facebook.com/{{.}}" target="_blank" rel="noopener"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.github }}
-  <a href="https://github.com/{{.}}"><i class="fa fa-github" aria-hidden="true"></i></a>
+  <a href="https://github.com/{{.}}" target="_blank" rel="noopener"><i class="fa fa-github" aria-hidden="true"></i></a>
+  {{ end }}
+  {{ with .Site.Params.social.sourcerer }}
+  <a href="https://sourcerer.io/{{.}}" target="_blank" rel="noopener"><i class="fa-sourcerer sourcerer-icon fa-2" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.linkedin }}
-  <a href="https://linkedin.com/in/{{.}}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+  <a href="https://linkedin.com/in/{{.}}" target="_blank" rel="noopener"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.slideshare }}
-  <a href="https://www.slideshare.net/{{.}}"><i class="fa fa-slideshare fa-2" aria-hidden="true"></i></a>
+  <a href="https://www.slideshare.net/{{.}}" target="_blank" rel="noopener"><i class="fa fa-slideshare fa-2" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.stackoverflow }}
-  <a href="https://stackoverflow.com/users/{{.}}"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+  <a href="https://stackoverflow.com/users/{{.}}" target="_blank" rel="noopener"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.medium}}
-  <a href="https://medium.com/{{.}}"><i class="fa fa-medium" aria-hidden="true"></i></a>
+  <a href="https://medium.com/{{.}}" target="_blank" rel="noopener"><i class="fa fa-medium" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.goodreads}}
-  <a href="https://www.goodreads.com/{{.}}"><i class="fa-goodreads goodreads-icon-2 fa-2" aria-hidden="true"></i></a>
+  <a href="https://www.goodreads.com/{{.}}" target="_blank" rel="noopener"><i class="fa-goodreads goodreads-icon-2 fa-2" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.lattes}}
-  <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id={{.}}&tipo=completo&idiomaExibicao=1"><i class="fa-lattes lattes-icon fa-2" aria-hidden="true"></i></a>
+  <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id={{.}}&tipo=completo&idiomaExibicao=1" target="_blank" rel="noopener"><i class="fa-lattes lattes-icon fa-2" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.angellist}}
-  <a href="https://angel.co/{{.}}"><i class="fa fa-angellist" aria-hidden="true"></i></a>
+  <a href="https://angel.co/{{.}}" target="_blank" rel="noopener"><i class="fa fa-angellist" aria-hidden="true"></i></a>
   {{ end }}
   {{ with .Site.Params.social.email }}
-  <a href="mailto:{{.}}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+  <a href="mailto:{{.}}" target="_blank" rel="noopener"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
   {{ end }}
 </section>
