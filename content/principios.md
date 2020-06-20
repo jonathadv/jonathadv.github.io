@@ -70,7 +70,7 @@ Trata-se de uma lista em constante evolução, que reflete os comportamentos e c
 
 ## Consistência é importante
   - Ter consistência é mais importante do que ações pontuais quando se busca um objetivo.
-    - Exemplos disso são ler um livro, aprender algo novo, investir e exercícios físicos.
+    - Exemplos disso são *ler um livro*, *aprender algo novo*, *investimentos financeiros* e *exercícios físicos*.
 
 ## Saúde física e mental são essenciais
   - Treinar o físico, o mental e o espiritual.
