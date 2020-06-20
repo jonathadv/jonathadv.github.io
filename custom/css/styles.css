@@ -57,6 +57,20 @@
     text-transform: none;
 }
 
+/**
+ * Fix to add Sourcerer Icon
+ */
+@font-face {
+    font-family: 'Sourcerer';
+    src: url("../font-sourcerer/sourcerer.eot");
+    src: url("../font-sourcerer/sourcerer.eot?#iefix") format('embedded-opentype'), url("../font-sourcerer/sourcerer.woff2") format('woff2'), url("../font-sourcerer/sourcerer.woff") format('woff'), url("../font-sourcerer/sourcerer.ttf") format('truetype'), url("../font-sourcerer/sourcerer.svg#icons") format('svg');
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-decoration: inherit;
+    text-transform: none;
+}
+
 .fa-lattes {
   display: inline-block;
   font: normal normal normal 14px/1 Lattes;
@@ -87,6 +101,19 @@
     content:"\e801";
 }
 
+.fa-sourcerer {
+  display: inline-block;
+  font: normal normal normal 14px/1 Sourcerer;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sourcerer-icon:before {
+    font-size: 16px;
+    content: "\e900";
+}
 
 /**
  * Responsive Youtube Embed
