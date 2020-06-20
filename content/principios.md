@@ -68,5 +68,9 @@ Trata-se de uma lista em constante evolução, que reflete os comportamentos e c
   - Suas palavras devem condizer com seus atos (o melhor ensinamento se dá através do exemplo)
     - Quando isso não ocorre, você perde credibilidade perante aos demais.
 
+## Consistência é importante
+  - Ter consistência é mais importante do que ações pontuais quando se busca um objetivo.
+    - Exemplos disso são ler um livro, aprender algo novo, investir e exercícios físicos.
+
 ## Saúde física e mental são essenciais
   - Treinar o físico, o mental e o espiritual.
