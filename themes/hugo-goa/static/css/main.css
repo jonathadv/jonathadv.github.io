@@ -255,3 +255,10 @@ header.title
         margin-top: 30px;
     }
 }
+.content-div h1,h2,h3 {
+    text-justify: none;
+}
+.content-div p,li {
+    hyphens: auto;
+}
+
