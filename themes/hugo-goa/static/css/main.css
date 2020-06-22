@@ -238,7 +238,7 @@ section.meta {
 }
 header.title
 {
-    margin-top: 50px;
+    margin-top: 20px;
     padding: 0 15px;
 }
 @media (max-width: 991px)
@@ -261,4 +261,3 @@ header.title
 .content-div p,li {
     hyphens: auto;
 }
-

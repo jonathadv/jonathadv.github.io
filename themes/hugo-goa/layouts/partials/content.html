@@ -1,3 +1,8 @@
+{{ if .Params.banner }}
+<section class="banner">
+  <img src="{{ .Site.Params.bannerdir }}{{ .Params.banner }}" width="100%"><br/><br/>
+</section>
+{{ end }}
 <header class="row text-left title">
   <h1 class="title">{{ .Title }}</h1>
 </header>
@@ -20,11 +25,6 @@
   </div>
   {{ end }}
 </section>
-{{ if .Params.banner }}
-<section>
-  <img src="{{ .Site.Params.bannerdir }}{{ .Params.banner }}" width="100%"><br/><br/>
-</section>
-{{ end }}
 <section id="content-pane" class="row">
   <div class="col-md-12 text-justify content content-div">
     {{ .Content }}
