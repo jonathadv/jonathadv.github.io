@@ -27,6 +27,7 @@ description = "Software Architect @ADP"
 authorimage = "jonatha.jpg"
 dateformat = "2/01/2006"
 bannerdir = "/custom/images/banner/"
+defaultLogo = "/custom/images/jdv.jpg"
 
 ## Site Meta Settings
 [params.meta]
