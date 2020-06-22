@@ -7,7 +7,8 @@ slug = ""
 tags = []
 categories = []
 showpagemeta = false
-showcomments = true
+showcomments = false
+showprevnext = false
 banner = "principles.jpg"
 description = "Inspired by the book \"Principles\" by Ray Dalio, I've been reflecting on the principles of life and work that have led my personal and professional life so far. Several months after finishing the book, it was possible to me to write my own principles."
 +++

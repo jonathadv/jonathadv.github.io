@@ -8,6 +8,7 @@ tags = []
 categories = []
 showpagemeta = false
 showcomments = true
+showprevnext = false
 +++
 
 Português | [English](/projects)

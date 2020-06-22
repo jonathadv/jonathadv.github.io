@@ -1,4 +1,7 @@
 <section id="menu-pane" class="row menu text-center">
+
+  {{ if ne .Params.showprevnext false}}
+
   {{ if not .IsNode }}
   {{ with .PrevInSection }}
   <span><a class="menu-item" href="{{ .Permalink }}">&lt; prev | </a></span>
@@ -11,4 +14,9 @@
   {{ end }}
   {{ end }}
   <h4 class="text-center"><a class="menu-item" href="{{ .Site.BaseURL }}">home</a></h4>
+
+  {{ else }}
+  <h4 class="text-center"><a class="menu-item" href="{{ .Site.BaseURL }}">home</a></h4>
+  {{ end }}
+
 </section>

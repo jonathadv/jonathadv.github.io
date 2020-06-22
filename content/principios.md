@@ -7,7 +7,8 @@ slug = ""
 tags = []
 categories = []
 showpagemeta = false
-showcomments = true
+showcomments = false
+showprevnext = false
 banner = "principles.jpg"
 description = "Inspirado pelo livro \"Princípios\", de Ray Dalio, venho refletindo constantemente sobre os princípios de vida e de trabalho que têm conduzido minha vida pessoal e profissional até o momento. Após vários meses da finalização do livro, consegui colocar no papel os meus próprios princípios."
 +++
