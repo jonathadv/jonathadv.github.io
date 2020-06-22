@@ -1,5 +1,5 @@
 +++ 
-title = "Projects"
+title = "Projetos"
 date = 2020-06-06T20:12:21-02:00
 draft = false 
 comments = false 
@@ -10,18 +10,18 @@ showpagemeta = false
 showcomments = true
 +++
 
-[Português](/projetos) | English
+Português | [English](/projects)
 
-# Some projects 
-Here you can find some of my projects. For more code related projects please take a look at my [github](https://github.com/jonathadv).
+# Alguns Projetos
+Aqui você encontra alguns dos meus projetos. Para mais projetos relacionados à código, dê uma olhada no meu [github](https://github.com/jonathadv).
 
-### Web Pages
-- [My Name](https://jonatha.daguerre.com.br/my-name/)
+### Páginas Web
+- [Meu Nome](https://jonatha.daguerre.com.br/my-name/)
 - [Fuel Cost Splitter](https://fcs.sigterm.com.br/)
 - [The Last Question Countdown](https://tlq.daguerre.com.br/)
 - [React Sokoban](https://jonatha.daguerre.com.br/react-sokoban/#/)
 
-### Developer tools
+### Ferramentas para Desenvolvedores
 - [Docker System Admin and Troubleshooting Toolkit](https://hub.docker.com/r/jonathadv/admin-toolkit/)
 - [Unittest Prettify](https://github.com/jonathadv/unittest-prettify)
 - [Driloader](https://github.com/lucasmello/Driloader)
@@ -31,8 +31,8 @@ Here you can find some of my projects. For more code related projects please tak
 - [Metroclima database CLI tool](https://github.com/jonathadv/metroclima-cli)
 - [PyPoABus](https://github.com/jonathadv/py-poa-bus)
 
-### Documents
-- [Portuguese translation of *How To Become A Hacker*](https://jonatha.daguerre.com.br/hacker-howto/)
-- [Portuguese translation of *The Glider: A Universal Hacker Emblem*](https://jonatha.daguerre.com.br/hacker-emblem/)
-- [Pescar Project - GNU/Linux (class material)](https://pescar.daguerre.com.br/)
+### Documentos
+- [Como se Tornar um Hacker (Tradução)](https://jonatha.daguerre.com.br/hacker-howto/)
+- [Glider: Um Emblema Hacker Universal (Tradução)](https://jonatha.daguerre.com.br/hacker-emblem/)
+- [GNU/Linux - Projeto Pescar (Material de apoio)](https://pescar.daguerre.com.br/)
 

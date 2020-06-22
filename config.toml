@@ -26,6 +26,7 @@ intro = "Software Developer"
 description = "Software Architect @ADP"
 authorimage = "jonatha.jpg"
 dateformat = "2/01/2006"
+bannerdir = "/custom/images/banner/"
 
 ## Site Meta Settings
 [params.meta]
@@ -60,14 +61,14 @@ hightlightjs = true
     name = "Principles"
     weight = 200
     identifier = "principles"
-    url = "/principios/"    
-[[menu.main]]
-    name = "blog"
-    weight = 300
-    identifier = "blog"
-    url = "/blog/"
+    url = "/principles/"    
 [[menu.main]]
     name = "Projects"
     identifier = "projects"
-    weight = 400
+    weight = 300
     url = "/projects/"
+[[menu.main]]
+    name = "blog"
+    weight = 400
+    identifier = "blog"
+    url = "/blog/"    

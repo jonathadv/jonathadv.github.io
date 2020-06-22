@@ -1,13 +1,16 @@
 ---
 title: "Ubunchu: A Manga about Ubuntu"
 date: 2016-04-17T20:12:21-02:00
-draft: false
+draft: false 
+comments: false 
+slug: "" 
+tags: ["education", "comics", "os", "linux", "gnu"]
+categories: []
+showpagemeta: true
+showcomments: true
 banner: "ubunchu-banner.jpg"
 description: "\"Ubunchu!\" is a Japanese manga series by Hiroshi Seo featuring Ubuntu Linux. Three school students in a system-admin club  are getting into Ubuntu!"
 ---
-
-
-<img src="/custom/images/banner/ubunchu-banner.jpg" width="100%"><br/><br/>
 
 For those who like to learn having fun, there is a great tip:
 
