@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Jonatha Daguerre Vasconcelos</title>
-    <link>https://jonatha.daguerre.com.br/blog/</link>
-    <description>Recent content in Blogs on Jonatha Daguerre Vasconcelos</description>
+    <title>comics on Jonatha Daguerre Vasconcelos</title>
+    <link>https://jonatha.daguerre.com.br/tags/comics/</link>
+    <description>Recent content in comics on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Jun 2020 21:19:00 -0300</lastBuildDate>
     
-	<atom:link href="https://jonatha.daguerre.com.br/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonatha.daguerre.com.br/tags/comics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -45,16 +45,6 @@
 Translations available at: http://divajutta.com/doctormo/ubunchu/c1.html
 Currently there are 8 episodes released and 7 with english translation.
 Enjoy!</description>
-    </item>
-    
-    <item>
-      <title>Video Warriors of the Net</title>
-      <link>https://jonatha.daguerre.com.br/blog/warriors-of-the-net-en/</link>
-      <pubDate>Sat, 16 Apr 2016 20:12:21 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/blog/warriors-of-the-net-en/</guid>
-      <description>Did you ever wonder how the Internet works? How does a router look like? What color does a IP packet have and how does it travel through a firewall? All the answers and many more can be found in the Warriors of the net movie. The movie is available in many different languages and it is the perfect tool for introducing Internet to novice users.
- Oficial web site: http://www.</description>
     </item>
     
   </channel>

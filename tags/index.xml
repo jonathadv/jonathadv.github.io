@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jonatha Daguerre Vasconcelos</title>
@@ -6,9 +6,73 @@
     <description>Recent content in Tags on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Sun, 21 Jun 2020 21:19:00 -0300</lastBuildDate>
     
 	<atom:link href="https://jonatha.daguerre.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>comics</title>
+      <link>https://jonatha.daguerre.com.br/tags/comics/</link>
+      <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://jonatha.daguerre.com.br/tags/education/</link>
+      <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://jonatha.daguerre.com.br/tags/network/</link>
+      <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnu</title>
+      <link>https://jonatha.daguerre.com.br/tags/gnu/</link>
+      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/gnu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://jonatha.daguerre.com.br/tags/linux/</link>
+      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>os</title>
+      <link>https://jonatha.daguerre.com.br/tags/os/</link>
+      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://jonatha.daguerre.com.br/tags/video/</link>
+      <pubDate>Sat, 16 Apr 2016 20:12:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/video/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

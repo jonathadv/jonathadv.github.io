@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonatha Daguerre Vasconcelos</title>
@@ -6,10 +6,32 @@
     <description>Recent content on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Jun 2020 23:53:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 21:19:00 -0300</lastBuildDate>
     
 	<atom:link href="https://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How HTTPS Works</title>
+      <link>https://jonatha.daguerre.com.br/blog/how-https-works-en/</link>
+      <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/blog/how-https-works-en/</guid>
+      <description>Another great comics project from DNSimple:
+ Have you ever wondered why a green lock icon appears on your browser URL bar? And why is it important? We did too, and this comic is for you!
+  Follow the adventures of Certificat, Browserbird, and Compugter as they explain why HTTPS is crucial for the future of the web and how it all works together.
+  Don&amp;rsquo;t let the bad crabs get you (you&amp;rsquo;ll know what we mean in the comic).</description>
+    </item>
+    
+    <item>
+      <title>How DNS Works</title>
+      <link>https://jonatha.daguerre.com.br/blog/how-dns-works-en/</link>
+      <pubDate>Sat, 20 Jun 2020 21:20:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/blog/how-dns-works-en/</guid>
+      <description>A fun and colorful explanation of how DNS works, by DNSimple.
+ Oficial web site: https://howdns.works</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -60,19 +82,31 @@ Trata-se de uma lista em constante evolução, que reflete os comportamentos e c
     <item>
       <title>Projects</title>
       <link>https://jonatha.daguerre.com.br/projects/</link>
-      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
+      <pubDate>Sat, 06 Jun 2020 20:12:21 -0200</pubDate>
       
       <guid>https://jonatha.daguerre.com.br/projects/</guid>
-      <description> Some projects Here you can find some of my projects. For more code related projects please take a look at my github.
-Web Pages  My Name Fuel Cost Splitter The Last Question Countdown React Sokoban  Developer tools  Docker System Admin and Troubleshooting Toolkit Unittest Prettify Driloader Simple Mock Server  CLI  Metroclima database CLI tool PyPoABus  Documents  Como se Tornar um Hacker (Tradução) Glider: Um Emblema Hacker Universal (Tradução) GNU/Linux - Projeto Pescar (Material de apoio)  </description>
+      <description>Português | English
+Some projects Here you can find some of my projects. For more code related projects please take a look at my github.
+Web Pages  My Name Fuel Cost Splitter The Last Question Countdown React Sokoban  Developer tools  Docker System Admin and Troubleshooting Toolkit Unittest Prettify Driloader Simple Mock Server  CLI  Metroclima database CLI tool PyPoABus  Documents  Portuguese translation of How To Become A Hacker Portuguese translation of The Glider: A Universal Hacker Emblem Pescar Project - GNU/Linux (class material)  </description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://jonatha.daguerre.com.br/projetos/</link>
+      <pubDate>Sat, 06 Jun 2020 20:12:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/projetos/</guid>
+      <description>Português | English
+Alguns Projetos Aqui você encontra alguns dos meus projetos. Para mais projetos relacionados à código, dê uma olhada no meu github.
+Páginas Web  Meu Nome Fuel Cost Splitter The Last Question Countdown React Sokoban  Ferramentas para Desenvolvedores  Docker System Admin and Troubleshooting Toolkit Unittest Prettify Driloader Simple Mock Server  CLI  Metroclima database CLI tool PyPoABus  Documentos  Como se Tornar um Hacker (Tradução) Glider: Um Emblema Hacker Universal (Tradução) GNU/Linux - Projeto Pescar (Material de apoio)  </description>
     </item>
     
     <item>
       <title>Ubunchu: A Manga about Ubuntu</title>
-      <link>https://jonatha.daguerre.com.br/blog/ubunchu.en/</link>
+      <link>https://jonatha.daguerre.com.br/blog/ubunchu/</link>
       <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
       
-      <guid>https://jonatha.daguerre.com.br/blog/ubunchu.en/</guid>
+      <guid>https://jonatha.daguerre.com.br/blog/ubunchu/</guid>
       <description>For those who like to learn having fun, there is a great tip:
  &amp;ldquo;Ubunchu!&amp;rdquo; is a Japanese manga series by Hiroshi Seo featuring Ubuntu Linux. Three school students in a system-admin club are getting into Ubuntu!
  Offical site: https://seotch.wordpress.com/ubunchu/
@@ -83,10 +117,10 @@ Enjoy!</description>
     
     <item>
       <title>Video Warriors of the Net</title>
-      <link>https://jonatha.daguerre.com.br/blog/warriors_of_the_net.en/</link>
+      <link>https://jonatha.daguerre.com.br/blog/warriors-of-the-net-en/</link>
       <pubDate>Sat, 16 Apr 2016 20:12:21 -0200</pubDate>
       
-      <guid>https://jonatha.daguerre.com.br/blog/warriors_of_the_net.en/</guid>
+      <guid>https://jonatha.daguerre.com.br/blog/warriors-of-the-net-en/</guid>
       <description>Did you ever wonder how the Internet works? How does a router look like? What color does a IP packet have and how does it travel through a firewall? All the answers and many more can be found in the Warriors of the net movie. The movie is available in many different languages and it is the perfect tool for introducing Internet to novice users.
  Oficial web site: http://www.</description>
     </item>

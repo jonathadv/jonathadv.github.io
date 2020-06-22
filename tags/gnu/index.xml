@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gnu on Jonatha Daguerre Vasconcelos</title>
+    <link>https://jonatha.daguerre.com.br/tags/gnu/</link>
+    <description>Recent content in gnu on Jonatha Daguerre Vasconcelos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Apr 2016 20:12:21 -0200</lastBuildDate>
+    
+	<atom:link href="https://jonatha.daguerre.com.br/tags/gnu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubunchu: A Manga about Ubuntu</title>
+      <link>https://jonatha.daguerre.com.br/blog/ubunchu/</link>
+      <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/blog/ubunchu/</guid>
+      <description>For those who like to learn having fun, there is a great tip:
+ &amp;ldquo;Ubunchu!&amp;rdquo; is a Japanese manga series by Hiroshi Seo featuring Ubuntu Linux. Three school students in a system-admin club are getting into Ubuntu!
+ Offical site: https://seotch.wordpress.com/ubunchu/
+Translations available at: http://divajutta.com/doctormo/ubunchu/c1.html
+Currently there are 8 episodes released and 7 with english translation.
+Enjoy!</description>
+    </item>
+    
+  </channel>
+</rss>
