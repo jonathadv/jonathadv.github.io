@@ -18,7 +18,7 @@ Here you can find some of my projects. For more code related projects please tak
 
 ### Web Pages
 - [My Name](https://jonatha.daguerre.com.br/my-name/)
-- [Fuel Cost Splitter](https://fcs.sigterm.com.br/)
+- [Fuel Cost Splitter](https://fcs.daguerre.com.br/)
 - [The Last Question Countdown](https://tlq.daguerre.com.br/)
 - [React Sokoban](https://jonatha.daguerre.com.br/react-sokoban/#/)
 
