@@ -25,10 +25,10 @@ Trata-se de uma lista em constante evolução, que reflete os comportamentos e c
 
 ## Ser protagonista da própria vida
   - Assumir a responsabilidade: não terceirizar a culpa.
-  - Saber que conquistas exigem sacrifícios.
-  - Tempo é uma questão de preferência.
+  - Conquistas exigem sacrifícios.
+  - Tempo é uma questão de prioridade.
   - Buscar aprender com os erros.
-  - Objetivos devem ser alcançados através de metas (ser mensurável com prazo definido).
+  - Objetivos devem ser alcançados através de metas (ser mensurável e com prazo definido).
      - Planejar -> Executar -> Refinar.
   - Abençoar o sucesso alheio.
     - Você não pode ter algo que você amaldiçoa.
@@ -40,7 +40,7 @@ Trata-se de uma lista em constante evolução, que reflete os comportamentos e c
 ## Saber que você não conseguiu nada sozinho
   - Para chegar onde chegou, pessoas o apoiaram.
 
-## Equilíbrio sempre
+## Buscar equilíbrio sempre
   - Buscar o equilíbrio em todas as áreas.
       - Atingir resultados excepcionais podem exigir a quebra momentânea de equilíbrio, o que não deve se tornar permanente!
   - Se autopromover SIM! Distorcer ou maquiar suas capacidades para que pareçam melhores, NÃO!
@@ -63,7 +63,7 @@ Trata-se de uma lista em constante evolução, que reflete os comportamentos e c
 ## Ajudar os outros
   - Estar sempre disposto a ajudar os demais.
   - Não tornar as pessoas dependentes de você, mas estimulá-las a se tornarem protagonistas também.
-      - Estimulá-las a serem multiplicadoras.
+      - Estimulá-las a serem multiplicadoras (ajudando outros mais).
   - Não esquecer que cada um tem seu tempo.
     - Como Ray Dalio diz: "Compreenda que os circuitos das das pessoas são bem diferentes dos seus".
   - Contribuir com a sociedade.
