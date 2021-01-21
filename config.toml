@@ -37,7 +37,6 @@ keywords = "blog,developer,software"
 ## Social Accounts
 [params.social]
 github = "jonathadv"
-sourcerer = "jonathadv"
 linkedin = "jonathadv"
 slideshare = "jonathadv"
 twitter = "jonathadv"
