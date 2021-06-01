@@ -17,16 +17,18 @@ Português | [English](/projects)
 Aqui você encontra alguns dos meus projetos. Para mais projetos relacionados à código, dê uma olhada no meu [github](https://github.com/jonathadv).
 
 ### Páginas Web
-- [Meu Nome](https://jonatha.daguerre.com.br/my-name/)
+- [My Name](https://jonatha.daguerre.com.br/my-name/)
 - [Fuel Cost Splitter](https://fcs.daguerre.com.br/)
 - [The Last Question Countdown](https://tlq.daguerre.com.br/)
 - [React Sokoban](https://jonatha.daguerre.com.br/react-sokoban/#/)
 
 ### Ferramentas para Desenvolvedores
 - [Docker System Admin and Troubleshooting Toolkit](https://hub.docker.com/r/jonathadv/admin-toolkit/)
-- [Unittest Prettify](https://github.com/jonathadv/unittest-prettify)
-- [Driloader](https://github.com/lucasmello/Driloader)
+- [Django Logger Panel](https://github.com/jonathadv/django-logger-panel)
 - [Simple Mock Server](https://github.com/jonathadv/simple-mock-server)
+- [Driloader](https://github.com/lucasmello/Driloader)
+- [Unittest Prettify](https://github.com/jonathadv/unittest-prettify)
+
 
 ### CLI
 - [Metroclima database CLI tool](https://github.com/jonathadv/metroclima-cli)

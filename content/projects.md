@@ -24,9 +24,11 @@ Here you can find some of my projects. For more code related projects please tak
 
 ### Developer tools
 - [Docker System Admin and Troubleshooting Toolkit](https://hub.docker.com/r/jonathadv/admin-toolkit/)
-- [Unittest Prettify](https://github.com/jonathadv/unittest-prettify)
-- [Driloader](https://github.com/lucasmello/Driloader)
+- [Django Logger Panel](https://github.com/jonathadv/django-logger-panel)
 - [Simple Mock Server](https://github.com/jonathadv/simple-mock-server)
+- [Driloader](https://github.com/lucasmello/Driloader)
+- [Unittest Prettify](https://github.com/jonathadv/unittest-prettify)
+
 
 ### CLI
 - [Metroclima database CLI tool](https://github.com/jonathadv/metroclima-cli)
