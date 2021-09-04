@@ -29,6 +29,9 @@ dateformat = "2/01/2006"
 bannerdir = "/custom/images/banner/"
 defaultLogo = "/custom/images/jdv.jpg"
 
+[markup]
+defaultMarkdownHandler = "blackfriday"
+
 ## Site Meta Settings
 [params.meta]
 description = "Jonatha Daguerre Vasconcelos"
