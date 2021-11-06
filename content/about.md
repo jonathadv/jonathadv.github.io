@@ -13,11 +13,12 @@ showprevnext = false
 
 [Português](/sobre) | English
 
-Working as software developer for 7+ years, [Jonatha](https://jonatha.daguerre.com.br/my-name/) accumulated experience in many different languages, frameworks, tools and processes.
-His passion for problem solving and automation led him to be a reference in automation, infrastucture, GNU/Linux and RegEx among his co-workers.
 
-He holds a Bachelor’s degree in Information Systems and a MBA in Data Science/Big Data from PUCRS.
+With passion for solving problems and constantly seeking excellence, [Jonatha](https://jonatha.daguerre.com.br/my-name/#/english) has led several initiatives
+throughout his career. 
 
-Currently, he works at [ADP](https://www.adp.com/) as Software Architect, building solutions to support the company's global infrastructure team.
+With 9+ years of experience in software engineering, working with different stacks on
+national and international projects, Jonatha combines experience in several technologies and coding
+practices with a strong knowledge in infrastructure.
 
 

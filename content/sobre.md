@@ -13,9 +13,9 @@ showprevnext = false
 
 Português | [English](/about/)
 
-Trabalhando como desenvolvedor de software por mais de 7 anos, [Jonatha](https://jonatha.daguerre.com.br/my-name/) acumulou experiência em diversos linguagens, frameworks, ferramentas e processos. Sua paixão pela solução de problemas e automação o levou a ser uma referência em automação, infraestrutura, GNU / Linux e RegEx entre seus colegas de trabalho.
+Apaixonao por solucionar problemas e em busca constante pela excelência, [Jonatha](https://jonatha.daguerre.com.br/my-name/) liderou diversas iniciativas
+ao longo de sua carreira. 
 
-É formado em Sistemas de Informação e possui MBA em Ciência de Dados / Big Data pela PUCRS.
-
-Atualmente, ele trabalha na [ADP](https://www.adp.com/) como Arquiteto de Software, criando soluções para dar suporte à equipe de infraestrutura global da empresa.
+Com mais de 9 anos de experiência em engenharia de software, trabalhando com diferentes stacks em
+projetos nacionais e internacionais, Jonatha alia experiência em diversas tecnologias e práticas de programação com forte conhecimento em infraestrutura. 
 
