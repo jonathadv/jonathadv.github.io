@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Jonatha Daguerre Vasconcelos"
-intro = "Software Developer"
-description = "Software Architect @ADP"
+intro = "Software Engineer"
+description = ""
 authorimage = "jonatha.jpg"
 dateformat = "2/01/2006"
 bannerdir = "/custom/images/banner/"
