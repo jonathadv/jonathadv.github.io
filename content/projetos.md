@@ -28,6 +28,7 @@ Aqui você encontra alguns dos meus projetos. Para mais projetos relacionados à
 - [Simple Mock Server](https://github.com/jonathadv/simple-mock-server)
 - [Driloader](https://github.com/lucasmello/Driloader)
 - [Unittest Prettify](https://github.com/jonathadv/unittest-prettify)
+- [Python Cookiecutter](https://github.com/jonathadv/python-cookiecutter)
 
 
 ### CLI
