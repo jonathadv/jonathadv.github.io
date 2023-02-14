@@ -32,6 +32,8 @@ Aqui você encontra alguns dos meus projetos. Para mais projetos relacionados à
 
 
 ### CLI
+- [Brokerage Statement Parser](https://github.com/jonathadv/brokerage-statement)
+- [Brazil NFe Scanner](https://github.com/jonathadv/nfe-scanner)
 - [Metroclima database CLI tool](https://github.com/jonathadv/metroclima-cli)
 - [PyPoABus](https://github.com/jonathadv/py-poa-bus)
 
