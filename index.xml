@@ -8,12 +8,12 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Jun 2020 21:19:00 -0300</lastBuildDate><atom:link href="https://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Goodreads</title>
-      <link>https://jonatha.daguerre.com.br/goodreads/</link>
+      <title>Books</title>
+      <link>https://jonatha.daguerre.com.br/books/</link>
       <pubDate>Mon, 13 Feb 2023 22:22:00 -0300</pubDate>
       
-      <guid>https://jonatha.daguerre.com.br/goodreads/</guid>
-      <description>.gr_grid_container { /* customize grid container div here. eg: width: 500px; */ } .gr_grid_book_container { /* customize book cover container div here */ float: left; width: 98px; height: 160px; padding: 0px 0px; overflow: hidden; }   The books I&#39;ve been reading                      Jonatha&#39;s favorite books » Share book reviews and ratings with Jonatha, and even join a book club on Goodreads.</description>
+      <guid>https://jonatha.daguerre.com.br/books/</guid>
+      <description>     .gr_grid_container { /* customize grid container div here. eg: width: 500px; */ } .gr_grid_book_container { /* customize book cover container div here */ float: left; width: 98px; height: 160px; padding: 0px 0px; overflow: hidden; }   The books I&#39;ve been reading  Jonatha&#39;s favorite books » Share book reviews and ratings with Jonatha, and even join a book club on Goodreads.    </description>
     </item>
     
     <item>
