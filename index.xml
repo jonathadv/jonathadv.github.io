@@ -8,6 +8,15 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Jun 2020 21:19:00 -0300</lastBuildDate><atom:link href="https://jonatha.daguerre.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Goodreads</title>
+      <link>https://jonatha.daguerre.com.br/goodreads/</link>
+      <pubDate>Mon, 13 Feb 2023 22:22:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/goodreads/</guid>
+      <description>.gr_grid_container { /* customize grid container div here. eg: width: 500px; */ } .gr_grid_book_container { /* customize book cover container div here */ float: left; width: 98px; height: 160px; padding: 0px 0px; overflow: hidden; }   The books I&#39;ve been reading                      Jonatha&#39;s favorite books » Share book reviews and ratings with Jonatha, and even join a book club on Goodreads.</description>
+    </item>
+    
+    <item>
       <title>How HTTPS Works</title>
       <link>https://jonatha.daguerre.com.br/blog/how-https-works-en/</link>
       <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
@@ -37,7 +46,7 @@ Don&amp;rsquo;t let the bad crabs get you (you&amp;rsquo;ll know what we mean in
       <guid>https://jonatha.daguerre.com.br/about/</guid>
       <description>Português | English
 With passion for solving problems and constantly seeking excellence, Jonatha has led several initiatives throughout his career.
-With 9+ years of experience in software engineering, working with different stacks on national and international projects, Jonatha combines experience in several technologies and coding practices with a strong knowledge in infrastructure.</description>
+With 10+ years of experience in software engineering, working with different stacks on national and international projects, Jonatha combines experience in several technologies and coding practices with a strong knowledge in infrastructure.</description>
     </item>
     
     <item>
@@ -47,8 +56,8 @@ With 9+ years of experience in software engineering, working with different stac
       
       <guid>https://jonatha.daguerre.com.br/sobre/</guid>
       <description>Português | English
-Apaixonao por solucionar problemas e em busca constante pela excelência, Jonatha liderou diversas iniciativas ao longo de sua carreira.
-Com mais de 9 anos de experiência em engenharia de software, trabalhando com diferentes stacks em projetos nacionais e internacionais, Jonatha alia experiência em diversas tecnologias e práticas de programação com forte conhecimento em infraestrutura.</description>
+Apaixonado por solucionar problemas e em busca constante pela excelência, Jonatha liderou diversas iniciativas ao longo de sua carreira.
+Com mais de 10 anos de experiência em engenharia de software, trabalhando com diferentes stacks em projetos nacionais e internacionais, Jonatha alia experiência em diversas tecnologias e práticas de programação com forte conhecimento em infraestrutura.</description>
     </item>
     
     <item>
@@ -81,7 +90,7 @@ Trata-se de uma lista em constante evolução, que reflete os comportamentos e c
       <guid>https://jonatha.daguerre.com.br/projects/</guid>
       <description> Português | English
 Some projects Here you can find some of my projects. For more code related projects please take a look at my github.
-Web Pages  My Name Fuel Cost Splitter The Last Question Countdown React Sokoban  Developer tools  Docker System Admin and Troubleshooting Toolkit Django Logger Panel Simple Mock Server Driloader Unittest Prettify Python Cookiecutter  CLI  Metroclima database CLI tool PyPoABus  Documents  Portuguese translation of How To Become A Hacker Portuguese translation of The Glider: A Universal Hacker Emblem Pescar Project - GNU/Linux (class material)  </description>
+Web Pages  My Name Fuel Cost Splitter The Last Question Countdown React Sokoban  Developer tools  Docker System Admin and Troubleshooting Toolkit Django Logger Panel Simple Mock Server Driloader Unittest Prettify Python Cookiecutter  CLI  Brokerage Statement Parser Brazil NFe Scanner Metroclima database CLI tool PyPoABus  Documents  Portuguese translation of How To Become A Hacker Portuguese translation of The Glider: A Universal Hacker Emblem Pescar Project - GNU/Linux (class material)  </description>
     </item>
     
     <item>
@@ -92,7 +101,7 @@ Web Pages  My Name Fuel Cost Splitter The Last Question Countdown React Sokoban 
       <guid>https://jonatha.daguerre.com.br/projetos/</guid>
       <description> Português | English
 Alguns Projetos Aqui você encontra alguns dos meus projetos. Para mais projetos relacionados à código, dê uma olhada no meu github.
-Páginas Web  My Name Fuel Cost Splitter The Last Question Countdown React Sokoban  Ferramentas para Desenvolvedores  Docker System Admin and Troubleshooting Toolkit Django Logger Panel Simple Mock Server Driloader Unittest Prettify Python Cookiecutter  CLI  Metroclima database CLI tool PyPoABus  Documentos  Como se Tornar um Hacker (Tradução) Glider: Um Emblema Hacker Universal (Tradução) GNU/Linux - Projeto Pescar (Material de apoio)  </description>
+Páginas Web  My Name Fuel Cost Splitter The Last Question Countdown React Sokoban  Ferramentas para Desenvolvedores  Docker System Admin and Troubleshooting Toolkit Django Logger Panel Simple Mock Server Driloader Unittest Prettify Python Cookiecutter  CLI  Brokerage Statement Parser Brazil NFe Scanner Metroclima database CLI tool PyPoABus  Documentos  Como se Tornar um Hacker (Tradução) Glider: Um Emblema Hacker Universal (Tradução) GNU/Linux - Projeto Pescar (Material de apoio)  </description>
     </item>
     
     <item>
