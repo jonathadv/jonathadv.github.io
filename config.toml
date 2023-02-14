@@ -32,6 +32,9 @@ defaultLogo = "/custom/images/jdv.jpg"
 [markup]
 defaultMarkdownHandler = "blackfriday"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 ## Site Meta Settings
 [params.meta]
 description = "Jonatha Daguerre Vasconcelos"
@@ -74,4 +77,12 @@ hightlightjs = true
     name = "blog"
     weight = 400
     identifier = "blog"
-    url = "/blog/"    
+    url = "/blog/"
+[[menu.main]]
+    name = "Goodreads"
+    weight = 500
+    identifier = "goodreads"
+    url = "/goodreads/"    
+
+
+
