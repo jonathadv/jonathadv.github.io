@@ -79,10 +79,10 @@ hightlightjs = true
     identifier = "blog"
     url = "/blog/"
 [[menu.main]]
-    name = "Goodreads"
+    name = "Books"
     weight = 500
-    identifier = "goodreads"
-    url = "/goodreads/"    
+    identifier = "books"
+    url = "/books/"    
 
 
 
