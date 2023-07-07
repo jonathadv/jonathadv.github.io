@@ -21,7 +21,7 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Jonatha Daguerre Vasconcelos"
+author = "Jonatha Daguerre"
 intro = "Software Engineer"
 description = ""
 authorimage = "jonatha.jpg"
@@ -37,7 +37,7 @@ unsafe= true
 
 ## Site Meta Settings
 [params.meta]
-description = "Jonatha Daguerre Vasconcelos"
+description = "Jonatha Daguerre"
 keywords = "blog,developer,software"
 
 ## Social Accounts
@@ -53,7 +53,7 @@ lattes = "K8649414T2"
 
 ## Extras
 [params.extra]
-copyright = "© 2019. Jonatha Daguerre Vasconcelos." 
+copyright = "© 2023. Jonatha Daguerre." 
 poweredby = true
 hightlightjs = true
 
