@@ -25,7 +25,6 @@ description: "A última pergunta foi feita pela primeira vez, meio que de brinca
 <html>
   <head>
     <title></title>
-    <meta content="">
     <style>
         .centered {
             text-align: center;
@@ -33,6 +32,11 @@ description: "A última pergunta foi feita pela primeira vez, meio que de brinca
         .picture {
             padding: 0px;
             margin: 0px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
         }
     </style>
   </head>
