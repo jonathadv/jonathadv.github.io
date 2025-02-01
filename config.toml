@@ -27,7 +27,7 @@ description = ""
 authorimage = "jonatha.jpg"
 dateformat = "2/01/2006"
 bannerdir = "/custom/images/banner/"
-defaultLogo = "/custom/images/jdv.jpg"
+defaultLogo = "/custom/images/jdv-02.png"
 
 [markup]
 defaultMarkdownHandler = "blackfriday"
