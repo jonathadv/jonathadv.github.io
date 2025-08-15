@@ -9,10 +9,10 @@ categories: []
 showpagemeta: true
 showcomments: true
 banner: "iosprocessador.jpg"
-description: "O IO's - A Saga de um Processador, foi uma websérie animada criado pelo Guto Garcia, e produzida pela Primo Comunicação entre 2002 e 2005, com o total de 5 episódios."
+description: "O IO's - A Saga de um Processador, foi uma websérie animada criada pelo Guto Garcia, e produzida pela Primo Comunicação entre 2002 e 2005, com o total de 5 episódios."
 ---
 
-O "IO's - A Saga de um Processador", foi uma websérie animada criado pelo Guto Garcia, e produzida pela Primo Comunicação entre 2002 e 2005, com o total de 5 episódios.
+O "IO's - A Saga de um Processador", foi uma websérie animada criada pelo Guto Garcia, e produzida pela Primo Comunicação entre 2002 e 2005, com o total de 5 episódios.
 
 A websérie foi um sucesso estrondoso na internet não só no Brasil, mas também em outros países, chegando ao ponto se ser exibido nos festivais como Brasil Flash Festival 2.000 (finalista, entre os 10 melhores), Animamundiweb 2003 (1º lugar) e Sundance Online Film Festival, além nos sites dos bloggers.
 
@@ -150,7 +150,7 @@ Disponível no Internet Archive em: https://archive.org/details/iosprocessador
     <embed src="/iosprocessador/ios4 - Arquivo Corrompido.swf" width="550" height="400"/>
 </object>
 
-## 3 - Vírus no Sistema
+## 5 - Vírus no Sistema
 <object>
     <embed src="/iosprocessador/ios5 - Vírus no Sistema.swf" width="550" height="400"/>
 </object>
