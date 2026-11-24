@@ -1,3 +1,4 @@
 docs/
 .directory
 .directory
+.hugo_build.lock

@@ -1,6 +1,6 @@
 #!/bin/bash -exu
 BASE_DIR="$(mktemp -d)"
-hugo
+/opt/hugo_0.30.1/hugo 
 mv "public/" "${BASE_DIR}/"
 cp CNAME "${BASE_DIR}/"
 git checkout master
