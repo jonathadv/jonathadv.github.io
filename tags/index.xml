@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jonatha Daguerre Vasconcelos</title>
@@ -6,36 +6,13 @@
     <description>Recent content in Tags on Jonatha Daguerre Vasconcelos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Aug 2025 20:53:21 -0200</lastBuildDate><atom:link href="https://jonatha.daguerre.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>cpu</title>
-      <link>https://jonatha.daguerre.com.br/tags/cpu/</link>
-      <pubDate>Thu, 14 Aug 2025 20:53:21 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/tags/cpu/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sat, 15 Jun 2024 08:25:59 -0200</lastBuildDate>
+    
+	<atom:link href="https://jonatha.daguerre.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>education</title>
-      <link>https://jonatha.daguerre.com.br/tags/education/</link>
-      <pubDate>Thu, 14 Aug 2025 20:53:21 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>video</title>
-      <link>https://jonatha.daguerre.com.br/tags/video/</link>
-      <pubDate>Thu, 14 Aug 2025 20:53:21 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/tags/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>asimov</title>
+      <title>Asimov</title>
       <link>https://jonatha.daguerre.com.br/tags/asimov/</link>
       <pubDate>Sat, 15 Jun 2024 08:25:59 -0200</pubDate>
       
@@ -44,16 +21,7 @@
     </item>
     
     <item>
-      <title>science fiction</title>
-      <link>https://jonatha.daguerre.com.br/tags/science-fiction/</link>
-      <pubDate>Sat, 15 Jun 2024 08:25:59 -0200</pubDate>
-      
-      <guid>https://jonatha.daguerre.com.br/tags/science-fiction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
+      <title>Comics</title>
       <link>https://jonatha.daguerre.com.br/tags/comics/</link>
       <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
       
@@ -62,16 +30,25 @@
     </item>
     
     <item>
-      <title>network</title>
-      <link>https://jonatha.daguerre.com.br/tags/network/</link>
-      <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
+      <title>Cpu</title>
+      <link>https://jonatha.daguerre.com.br/tags/cpu/</link>
+      <pubDate>Thu, 14 Aug 2025 20:53:21 -0200</pubDate>
       
-      <guid>https://jonatha.daguerre.com.br/tags/network/</guid>
+      <guid>https://jonatha.daguerre.com.br/tags/cpu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>gnu</title>
+      <title>Education</title>
+      <link>https://jonatha.daguerre.com.br/tags/education/</link>
+      <pubDate>Thu, 14 Aug 2025 20:53:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gnu</title>
       <link>https://jonatha.daguerre.com.br/tags/gnu/</link>
       <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
       
@@ -80,7 +57,7 @@
     </item>
     
     <item>
-      <title>linux</title>
+      <title>Linux</title>
       <link>https://jonatha.daguerre.com.br/tags/linux/</link>
       <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
       
@@ -89,11 +66,38 @@
     </item>
     
     <item>
-      <title>os</title>
+      <title>Network</title>
+      <link>https://jonatha.daguerre.com.br/tags/network/</link>
+      <pubDate>Sun, 21 Jun 2020 21:19:00 -0300</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Os</title>
       <link>https://jonatha.daguerre.com.br/tags/os/</link>
       <pubDate>Sun, 17 Apr 2016 20:12:21 -0200</pubDate>
       
       <guid>https://jonatha.daguerre.com.br/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Fiction</title>
+      <link>https://jonatha.daguerre.com.br/tags/science-fiction/</link>
+      <pubDate>Sat, 15 Jun 2024 08:25:59 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/science-fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://jonatha.daguerre.com.br/tags/video/</link>
+      <pubDate>Thu, 14 Aug 2025 20:53:21 -0200</pubDate>
+      
+      <guid>https://jonatha.daguerre.com.br/tags/video/</guid>
       <description></description>
     </item>
     
